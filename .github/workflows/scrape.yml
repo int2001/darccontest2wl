@@ -12,16 +12,15 @@ jobs:
     permissions:
       contents: write
     steps:
+      - run: apk add --no-cache git && git config --system safe.directory '*'
       - uses: actions/checkout@v4
       - uses: actions/cache@v4
         with:
           path: node_modules
           key: bun-${{ hashFiles('bun.lock') }}
-      - run: apk add --no-cache git
       - run: bun install --frozen-lockfile
       - run: bun scraper.ts --rss > calendar.rss
       - run: |
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add calendar.rss
