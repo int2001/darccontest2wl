@@ -17,6 +17,7 @@ jobs:
         with:
           path: node_modules
           key: bun-${{ hashFiles('bun.lock') }}
+      - run: apk add --no-cache git
       - run: bun install --frozen-lockfile
       - run: bun scraper.ts --rss > calendar.rss
       - run: |
