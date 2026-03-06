@@ -27,4 +27,8 @@ Automatic use to run every midnight: create a cronjob (bun needed):
 0 0 * * * cd /path/to/tool && bun run scraper.ts --rss > /destination/of/file/calendar.rss 2> /dev/null
 ```
 
-Output is written to stdout; progress and errors to stderr.
+Output is written to stdout; progress and errors omitted.
+
+This github-repo has an automatic Pipeline which creates calendar.rss every night at 02:00am.
+simply download https://raw.githubusercontent.com/int2001/darccontest2wl/refs/heads/master/calendar.rss for actual contest-data.
+
