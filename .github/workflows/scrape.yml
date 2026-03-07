@@ -15,9 +15,22 @@ jobs:
       - run: apk add --no-cache git && git config --system safe.directory '*'
       - uses: actions/checkout@v4
       - run: bun install --frozen-lockfile
-      - run: bun scraper.ts --rss > calendar.rss
+      - run: |
+          bun scraper.ts --rss > /tmp/calendar_new.rss
+          if ! grep -q '<item>' /tmp/calendar_new.rss; then
+            echo "::error::Scrape produced no RSS items — keeping old calendar.rss"
+            exit 1
+          fi
+          cp /tmp/calendar_new.rss calendar.rss
+
+          bun scraper.ts > /tmp/calendar_new.json
+          if ! grep -q '"name"' /tmp/calendar_new.json; then
+            echo "::error::Scrape produced no JSON entries — keeping old calendar.json"
+            exit 1
+          fi
+          cp /tmp/calendar_new.json calendar.json
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add calendar.rss
-          git diff --cached --quiet || git commit -m "chore: update calendar.rss" && git push
+          git add calendar.rss calendar.json
+          git diff --cached --quiet || git commit -m "chore: update calendar.rss and calendar.json" && git push
