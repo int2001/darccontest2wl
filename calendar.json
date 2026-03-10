@@ -1806,8 +1806,8 @@
     "startDate": "2026-03-15",
     "endDate": "2026-03-15",
     "infoUrl": "https://www.uba.be/en/hf/contest-rules/spring-contest-dst",
-    "mode": "SSB",
-    "bands": "80m"
+    "mode": "CW/SSB",
+    "bands": "6m"
   },
   {
     "name": "RSGB Activity",
@@ -2046,8 +2046,8 @@
     "startDate": "2026-03-22",
     "endDate": "2026-03-22",
     "infoUrl": "https://www.uba.be/en/hf/contest-rules/spring-contest-dst",
-    "mode": "CW/SSB",
-    "bands": "50MHz"
+    "mode": "SSB",
+    "bands": "80m"
   },
   {
     "name": "BCC QSO Party",
