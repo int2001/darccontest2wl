@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 12 Mar 2026 03:03:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 03:01:23 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -1875,7 +1875,7 @@
 </item>
 <item>
 <title>Franken Contest</title>
-<link>https://www.darc.de/fileadmin/filemounts/distrikte/b/Frankencontest/Ausschreibungen/ausschreibung2025.pdf</link>
+<link>https://www.darc.de/fileadmin/filemounts/distrikte/b/Frankencontest/Ausschreibungen/Ausschreibung_Frankencontest_2026.pdf</link>
 <description>0700Z-1000Z, May 10</description>
 <guid>darc-calendar://franken-contest-2026-05-10T07:00:00Z</guid>
 </item>
@@ -1887,7 +1887,7 @@
 </item>
 <item>
 <title>Franken Contest</title>
-<link>https://www.darc.de/fileadmin/filemounts/distrikte/b/Frankencontest/Ausschreibungen/ausschreibung2025.pdf</link>
+<link>https://www.darc.de/fileadmin/filemounts/distrikte/b/Frankencontest/Ausschreibungen/Ausschreibung_Frankencontest_2026.pdf</link>
 <description>1500Z-1900Z, May 9</description>
 <guid>darc-calendar://franken-contest-2026-05-09T15:00:00Z</guid>
 </item>
