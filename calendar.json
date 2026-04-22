@@ -4420,6 +4420,626 @@
     "bands": "80/40m"
   },
   {
+    "name": "FT8 Activity",
+    "startTime": "2026-07-01T17:00:00Z",
+    "endTime": "2026-07-01T21:00:00Z",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-01",
+    "infoUrl": "https://ft8activity.eu/rules/",
+    "mode": "FT8",
+    "bands": "144MHz"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-02T07:00:00Z",
+    "endTime": "2026-07-02T08:00:00Z",
+    "startDate": "2026-07-02",
+    "endDate": "2026-07-02",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "CQ WW VHF Contest",
+    "startTime": "2026-07-04T12:00:00Z",
+    "endTime": "2026-07-05T12:00:00Z",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-05",
+    "infoUrl": "https://www.cqww-vhf.com/rules.htm",
+    "mode": "CW/SSB",
+    "bands": "50MHz, 144MHz"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-01T19:00:00Z",
+    "endTime": "2026-07-01T20:00:00Z",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-01",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "DARC UKW-Wettbewerb",
+    "startTime": "2026-07-04T14:00:00Z",
+    "endTime": "2026-07-05T13:59:00Z",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-05",
+    "infoUrl": "https://www.darc.de/index.php?id=56188",
+    "mode": "CW/SSB/FM",
+    "bands": "144MHz - Laser"
+  },
+  {
+    "name": "Marconi Memo. HF",
+    "startTime": "2026-07-04T14:00:00Z",
+    "endTime": "2026-07-05T13:59:00Z",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-05",
+    "infoUrl": "https://www.arifano.it/contest_marconi.html",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "Original QRP Contest",
+    "startTime": "2026-07-04T15:00:00Z",
+    "endTime": "2026-07-05T15:00:00Z",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-05",
+    "infoUrl": "http://www.qrpcc.de/contestrules/oqrpr-d.html",
+    "mode": "CW/SSB",
+    "bands": "80 - 10m"
+  },
+  {
+    "name": "OK1WC Memorial",
+    "startTime": "2026-07-06T16:30:00Z",
+    "endTime": "2026-07-06T17:29:00Z",
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-06",
+    "infoUrl": "https://memorial-ok1wc.cz/index.php?page=rules2l",
+    "mode": "CW",
+    "bands": "80/40m"
+  },
+  {
+    "name": "Canada Day",
+    "startTime": "2026-07-07T00:00:00Z",
+    "endTime": "2026-07-07T23:59:00Z",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-07",
+    "infoUrl": "https://www.rac.ca/contesting-results/",
+    "mode": "CW, SSB",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "FT8 Activity",
+    "startTime": "2026-07-08T17:00:00Z",
+    "endTime": "2026-07-08T21:00:00Z",
+    "startDate": "2026-07-08",
+    "endDate": "2026-07-08",
+    "infoUrl": "https://ft8activity.eu/rules/",
+    "mode": "FT8",
+    "bands": "432MHz"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-09T07:00:00Z",
+    "endTime": "2026-07-09T08:00:00Z",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-09",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "IARU HF Championship",
+    "startTime": "2026-07-11T12:00:00Z",
+    "endTime": "2026-07-12T12:00:00Z",
+    "startDate": "2026-07-11",
+    "endDate": "2026-07-12",
+    "infoUrl": "https://www.arrl.org/iaru-hf-world-championship",
+    "mode": "CW/SSB",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "RSGB CC",
+    "startTime": "2026-07-06T19:00:00Z",
+    "endTime": "2026-07-06T20:30:00Z",
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-06",
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r80mcc.shtml",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
+    "name": "Westfalen Nord",
+    "startTime": "2026-07-07T17:00:00Z",
+    "endTime": "2026-07-07T19:00:00Z",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-07",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/distrikte/n/Vorstand_Referenten/Funkbetrieb/WNA_Ausschreibung_2026.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "144/432MHz"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-08T19:00:00Z",
+    "endTime": "2026-07-08T20:00:00Z",
+    "startDate": "2026-07-08",
+    "endDate": "2026-07-08",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "NRAU Activity",
+    "startTime": "2026-07-09T17:00:00Z",
+    "endTime": "2026-07-09T21:00:00Z",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-09",
+    "infoUrl": "https://vushf.dk/contest/rules/nac-open/",
+    "mode": "alle",
+    "bands": "50MHz"
+  },
+  {
+    "name": "Kraichgauer FM Session",
+    "startTime": "2026-07-12T14:00:00Z",
+    "endTime": "2026-07-12T16:00:00Z",
+    "startDate": "2026-07-12",
+    "endDate": "2026-07-12",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/FM_SESSION_SOMMER_2025.pdf",
+    "mode": "FM",
+    "bands": "2m, 70cm"
+  },
+  {
+    "name": "GMA Contest",
+    "startTime": "2026-07-07T18:00:00Z",
+    "endTime": "2026-07-07T22:00:00Z",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-07",
+    "infoUrl": "https://www.cqgma.org/doc/GMAC_Rules.pdf",
+    "mode": "alle",
+    "bands": "144MHz"
+  },
+  {
+    "name": "SP Activity",
+    "startTime": "2026-07-09T17:00:00Z",
+    "endTime": "2026-07-09T21:00:00Z",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-09",
+    "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "50MHz"
+  },
+  {
+    "name": "SP Activity",
+    "startTime": "2026-07-07T17:00:00Z",
+    "endTime": "2026-07-07T21:00:00Z",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-07",
+    "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "144MHz"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-07-09T19:00:00Z",
+    "endTime": "2026-07-09T21:30:00Z",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-09",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=6mukac",
+    "mode": "alle",
+    "bands": "50MHz"
+  },
+  {
+    "name": "NRAU Activity",
+    "startTime": "2026-07-07T17:00:00Z",
+    "endTime": "2026-07-07T21:00:00Z",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-07",
+    "infoUrl": "https://vushf.dk/contest/rules/nac-open/",
+    "mode": "alle",
+    "bands": "144MHz"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-07-07T19:00:00Z",
+    "endTime": "2026-07-07T21:30:00Z",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-07",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=2mukac",
+    "mode": "alle",
+    "bands": "144MHz"
+  },
+  {
+    "name": "OK1WC Memorial",
+    "startTime": "2026-07-13T16:30:00Z",
+    "endTime": "2026-07-13T17:29:00Z",
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-13",
+    "infoUrl": "https://memorial-ok1wc.cz/index.php?page=rules2l",
+    "mode": "CW",
+    "bands": "80/40m"
+  },
+  {
+    "name": "Westfalen Süd",
+    "startTime": "2026-07-14T17:00:00Z",
+    "endTime": "2026-07-14T19:00:00Z",
+    "startDate": "2026-07-14",
+    "endDate": "2026-07-14",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/distrikte/o/Westfalen_S%C3%BCd_Aktivit%C3%A4t/wsa_ausschreibung_2025.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "144/432MHz"
+  },
+  {
+    "name": "FT8 Activity",
+    "startTime": "2026-07-15T17:00:00Z",
+    "endTime": "2026-07-15T21:00:00Z",
+    "startDate": "2026-07-15",
+    "endDate": "2026-07-15",
+    "infoUrl": "https://ft8activity.eu/rules/",
+    "mode": "FT8",
+    "bands": "1296MHz"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-16T07:00:00Z",
+    "endTime": "2026-07-16T08:00:00Z",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-16",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "CQ WW VHF Contest",
+    "startTime": "2026-07-18T12:00:00Z",
+    "endTime": "2026-07-19T12:00:00Z",
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "infoUrl": "https://www.cqww-vhf.com/rules.htm",
+    "mode": "Digi",
+    "bands": "50MHz, 144MHz"
+  },
+  {
+    "name": "NRAU Activity",
+    "startTime": "2026-07-14T17:00:00Z",
+    "endTime": "2026-07-14T21:00:00Z",
+    "startDate": "2026-07-14",
+    "endDate": "2026-07-14",
+    "infoUrl": "https://vushf.dk/contest/rules/nac-open/",
+    "mode": "alle",
+    "bands": "432MHz"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-15T19:00:00Z",
+    "endTime": "2026-07-15T20:00:00Z",
+    "startDate": "2026-07-15",
+    "endDate": "2026-07-15",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "NRAU Activity",
+    "startTime": "2026-07-16T17:00:00Z",
+    "endTime": "2026-07-16T21:00:00Z",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-16",
+    "infoUrl": "https://vushf.dk/contest/rules/nac-open/",
+    "mode": "alle",
+    "bands": "70MHz"
+  },
+  {
+    "name": "IARU R1 70MHz",
+    "startTime": "2026-07-18T14:00:00Z",
+    "endTime": "2026-07-19T14:00:00Z",
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "infoUrl": "https://www.iaru-r1.org/wp-content/uploads/2021/03/Rules-2021.pdf",
+    "mode": "CW, SSB",
+    "bands": "70MHz"
+  },
+  {
+    "name": "SP Activity",
+    "startTime": "2026-07-14T17:00:00Z",
+    "endTime": "2026-07-14T21:00:00Z",
+    "startDate": "2026-07-14",
+    "endDate": "2026-07-14",
+    "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "432MHz"
+  },
+  {
+    "name": "RSGB CC",
+    "startTime": "2026-07-15T19:00:00Z",
+    "endTime": "2026-07-15T20:30:00Z",
+    "startDate": "2026-07-15",
+    "endDate": "2026-07-15",
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r80mcc.shtml",
+    "mode": "SSB",
+    "bands": "80m"
+  },
+  {
+    "name": "SP Activity",
+    "startTime": "2026-07-16T17:00:00Z",
+    "endTime": "2026-07-16T21:00:00Z",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-16",
+    "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "70MHz"
+  },
+  {
+    "name": "RSGB Trophy Contest",
+    "startTime": "2026-07-18T14:00:00Z",
+    "endTime": "2026-07-18T20:00:00Z",
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=70trophy",
+    "mode": "alle",
+    "bands": "70MHz"
+  },
+  {
+    "name": "YOTA Contest",
+    "startTime": "2026-07-19T10:00:00Z",
+    "endTime": "2026-07-19T21:59:00Z",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "infoUrl": "https://yotacontest.mrasz.org/rules-2026/english",
+    "mode": "CW/SSB",
+    "bands": "80 - 10m"
+  },
+  {
+    "name": "DARC RTTY-Kurzcontest",
+    "startTime": "2026-07-14T18:00:00Z",
+    "endTime": "2026-07-14T19:29:00Z",
+    "startDate": "2026-07-14",
+    "endDate": "2026-07-14",
+    "infoUrl": "https://www.darc.de/der-club/referate/conteste/rtty-kurz/rtty-rules/",
+    "mode": "RTTY",
+    "bands": "80/40m"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-07-16T19:00:00Z",
+    "endTime": "2026-07-16T21:30:00Z",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-16",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=4mukac",
+    "mode": "alle",
+    "bands": "70MHz"
+  },
+  {
+    "name": "OE Aktivitätstag",
+    "startTime": "2026-07-19T07:00:00Z",
+    "endTime": "2026-07-19T13:00:00Z",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf",
+    "mode": "alle",
+    "bands": "50Mhz and up"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-07-14T19:00:00Z",
+    "endTime": "2026-07-14T21:30:00Z",
+    "startDate": "2026-07-14",
+    "endDate": "2026-07-14",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=70cmsfmac",
+    "mode": "alle",
+    "bands": "432MHz"
+  },
+  {
+    "name": "9A Activity Contest",
+    "startTime": "2026-07-19T07:00:00Z",
+    "endTime": "2026-07-19T12:00:00Z",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "infoUrl": "https://hrvhf.net/index.php/9a-activity-contest",
+    "mode": "alle",
+    "bands": "6m - Laser"
+  },
+  {
+    "name": "S5 Activity",
+    "startTime": "2026-07-19T07:00:00Z",
+    "endTime": "2026-07-19T12:59:00Z",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "infoUrl": "http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf",
+    "mode": "CW/SSB",
+    "bands": "50MHz and up"
+  },
+  {
+    "name": "GMA Contest",
+    "startTime": "2026-07-19T08:00:00Z",
+    "endTime": "2026-07-19T12:00:00Z",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/GMAC_Rules.pdf",
+    "mode": "alle",
+    "bands": "144MHz"
+  },
+  {
+    "name": "OK Activity Contest",
+    "startTime": "2026-07-19T08:00:00Z",
+    "endTime": "2026-07-19T11:00:00Z",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "infoUrl": "http://www.ok1kpa.com/pa/rules.pdf",
+    "mode": "CW/SSB",
+    "bands": "144-10G"
+  },
+  {
+    "name": "DUR-GHz-Aktivität",
+    "startTime": "2026-07-19T08:00:00Z",
+    "endTime": "2026-07-19T12:00:00Z",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "infoUrl": "https://dl0tud.tu-dresden.de/wordpress/index.php/dur/",
+    "mode": "CW/SSB/FM",
+    "bands": ">1GHz"
+  },
+  {
+    "name": "RSGB LP Contest",
+    "startTime": "2026-07-19T09:00:00Z",
+    "endTime": "2026-07-19T16:00:00Z",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/rqrp.shtml",
+    "mode": "CW",
+    "bands": "70 - 10m"
+  },
+  {
+    "name": "OK1WC Memorial",
+    "startTime": "2026-07-20T16:30:00Z",
+    "endTime": "2026-07-20T17:29:00Z",
+    "startDate": "2026-07-20",
+    "endDate": "2026-07-20",
+    "infoUrl": "https://memorial-ok1wc.cz/index.php?page=rules2l",
+    "mode": "CW",
+    "bands": "80/40m"
+  },
+  {
+    "name": "NRAU Activity",
+    "startTime": "2026-07-21T17:00:00Z",
+    "endTime": "2026-07-21T21:00:00Z",
+    "startDate": "2026-07-21",
+    "endDate": "2026-07-21",
+    "infoUrl": "https://vushf.dk/contest/rules/nac-open/",
+    "mode": "alle",
+    "bands": "1,3GHz"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-22T19:00:00Z",
+    "endTime": "2026-07-22T20:00:00Z",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-22",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-23T07:00:00Z",
+    "endTime": "2026-07-23T08:00:00Z",
+    "startDate": "2026-07-23",
+    "endDate": "2026-07-23",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "IOTA Contest",
+    "startTime": "2026-07-25T12:00:00Z",
+    "endTime": "2026-07-26T12:00:00Z",
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/riota.shtml",
+    "mode": "CW/SSB",
+    "bands": "80 - 10m"
+  },
+  {
+    "name": "SP Activity",
+    "startTime": "2026-07-21T17:00:00Z",
+    "endTime": "2026-07-21T21:00:00Z",
+    "startDate": "2026-07-21",
+    "endDate": "2026-07-21",
+    "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "1,3GHz"
+  },
+  {
+    "name": "RSGB CC",
+    "startTime": "2026-07-23T19:00:00Z",
+    "endTime": "2026-07-23T20:30:00Z",
+    "startDate": "2026-07-23",
+    "endDate": "2026-07-23",
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r80mcc.shtml",
+    "mode": "Data",
+    "bands": "80m"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-07-21T19:00:00Z",
+    "endTime": "2026-07-21T21:30:00Z",
+    "startDate": "2026-07-21",
+    "endDate": "2026-07-21",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
+    "mode": "alle",
+    "bands": "1,3GHz"
+  },
+  {
+    "name": "OK1WC Memorial",
+    "startTime": "2026-07-27T16:30:00Z",
+    "endTime": "2026-07-27T17:29:00Z",
+    "startDate": "2026-07-27",
+    "endDate": "2026-07-27",
+    "infoUrl": "https://memorial-ok1wc.cz/index.php?page=rules2l",
+    "mode": "CW",
+    "bands": "80/40m"
+  },
+  {
+    "name": "NRAU Activity",
+    "startTime": "2026-07-28T17:00:00Z",
+    "endTime": "2026-07-28T21:00:00Z",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-28",
+    "infoUrl": "https://vushf.dk/contest/rules/nac-open/",
+    "mode": "alle",
+    "bands": "µW"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-29T19:00:00Z",
+    "endTime": "2026-07-29T20:00:00Z",
+    "startDate": "2026-07-29",
+    "endDate": "2026-07-29",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-07-30T07:00:00Z",
+    "endTime": "2026-07-30T08:00:00Z",
+    "startDate": "2026-07-30",
+    "endDate": "2026-07-30",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
+  },
+  {
+    "name": "RSGB FT4 Contest",
+    "startTime": "2026-07-27T19:00:00Z",
+    "endTime": "2026-07-27T21:00:00Z",
+    "startDate": "2026-07-27",
+    "endDate": "2026-07-27",
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r80m_ft4.shtml",
+    "mode": "FT4",
+    "bands": "80 - 10m"
+  },
+  {
+    "name": "SP Activity",
+    "startTime": "2026-07-28T17:00:00Z",
+    "endTime": "2026-07-28T21:00:00Z",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-28",
+    "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "µW"
+  },
+  {
+    "name": "RSGB Activ.",
+    "startTime": "2026-07-28T18:30:00Z",
+    "endTime": "2026-07-28T21:30:00Z",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-28",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=shfukac",
+    "mode": "alle",
+    "bands": "µW"
+  },
+  {
     "name": "DARC UKW-Sommer-FD",
     "startTime": "2026-08-01T07:00:00Z",
     "endTime": "2026-08-01T12:29:00Z",
