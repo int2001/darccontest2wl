@@ -448,9 +448,27 @@ async function main() {
     (process.argv.includes("--format") &&
      process.argv[process.argv.indexOf("--format") + 1] === "rss");
 
+  const monthsIdx = process.argv.indexOf("--months");
+  const limitMonths = monthsIdx >= 0 ? parseInt(process.argv[monthsIdx + 1]) : null;
+
   console.error("Fetching month URLs from main calendar page...");
-  const monthUrls = await getMonthUrls();
+  let monthUrls = await getMonthUrls();
   console.error(`Found ${monthUrls.length} month pages`);
+
+  if (limitMonths !== null && !isNaN(limitMonths)) {
+    const now = new Date();
+    const validMonths = new Set<string>();
+    for (let i = 0; i < limitMonths; i++) {
+      const d = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + i, 1));
+      // URLs use MMYYYY format (e.g. "042026" for April 2026)
+      validMonths.add(`${String(d.getUTCMonth() + 1).padStart(2, "0")}${d.getUTCFullYear()}`);
+    }
+    monthUrls = monthUrls.filter(url => {
+      const m = url.match(/\/(\d{6})\//);
+      return m ? validMonths.has(m[1]) : false;
+    });
+    console.error(`Limiting to ${limitMonths} month(s): ${[...validMonths].join(", ")}`);
+  }
 
   const allContests: Contest[] = [];
 
