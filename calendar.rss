@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 27 Apr 2026 03:10:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 03:10:28 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -1809,13 +1809,13 @@
 </item>
 <item>
 <title>DARC UKW-Wettbewerb</title>
-<link>https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest000/tnukwcontest00700/</link>
+<link>https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest002/tnukwcontest007001/</link>
 <description>1400Z, May 2 to 1359Z, May 3</description>
 <guid>darc-calendar://darc-ukw-wettbewerb-2026-05-02T14:00:00Z</guid>
 </item>
 <item>
 <title>Aktivitätswoche des DTC 24:00</title>
-<link>http://www.dtc-online.de/index.php/de/aktivitaeten/aktivitaetswoche</link>
+<link>https://www.dtc-online.de/index.php/aktivitaetswoche</link>
 <description>0000Z, May 4 to 2359Z, May 7</description>
 <guid>darc-calendar://aktivit-tswoche-des-dtc-24-00-2026-05-04T00:00:00Z</guid>
 </item>
@@ -4767,7 +4767,7 @@
 </item>
 <item>
 <title>Brandenburg-Berlin</title>
-<link>https://www.rttycontesting.com/ft-challenge/</link>
+<link>https://www.darc.de/der-club/distrikte/y/funksport/brandenburg-berlin-contest/ausschreibung/</link>
 <description>0700Z-1459Z, Dec 6</description>
 <guid>darc-calendar://brandenburg-berlin-2026-12-06T07:00:00Z</guid>
 </item>
@@ -5085,7 +5085,7 @@
 </item>
 <item>
 <title>Aktivitätswoche des DTC</title>
-<link>http://www.dtc-online.de/index.php/de/aktivitaeten/aktivitaetswoche</link>
+<link>https://www.dtc-online.de/index.php/aktivitaetswoche</link>
 <description>0000Z, May 1 to 2359Z, May 3</description>
 <guid>darc-calendar://aktivit-tswoche-des-dtc-2026-05-01T00:00:00Z</guid>
 </item>
