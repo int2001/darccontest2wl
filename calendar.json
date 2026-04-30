@@ -1240,14 +1240,14 @@
     "bands": "80 - 10m"
   },
   {
-    "name": "RSGB Activity",
-    "startTime": "2026-02-17T20:00:00Z",
-    "endTime": "2026-02-17T22:30:00Z",
+    "name": "DARC HELL-Kurzcontest",
+    "startTime": "2026-02-17T19:00:00Z",
+    "endTime": "2026-02-17T20:00:00Z",
     "startDate": "2026-02-17",
     "endDate": "2026-02-17",
-    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
-    "mode": "alle",
-    "bands": "1,3GHz"
+    "infoUrl": "https://www.darc.de/der-club/referate/conteste/hell-kurz/hell-kurz-regeln/",
+    "mode": "HELL",
+    "bands": "80m,40m"
   },
   {
     "name": "AGCW Bug",
@@ -1288,6 +1288,16 @@
     "infoUrl": "https://bergtag.de/termine.html",
     "mode": "alle",
     "bands": "10GHz"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-02-17T20:00:00Z",
+    "endTime": "2026-02-17T22:30:00Z",
+    "startDate": "2026-02-17",
+    "endDate": "2026-02-17",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
+    "mode": "alle",
+    "bands": "1,3GHz"
   },
   {
     "name": "RSGB Activity",
@@ -3560,14 +3570,14 @@
     "bands": "70MHz"
   },
   {
-    "name": "RSGB Activity",
+    "name": "DARC HELL-Kurzcontest",
     "startTime": "2026-05-19T19:00:00Z",
-    "endTime": "2026-05-19T21:30:00Z",
+    "endTime": "2026-05-19T20:00:00Z",
     "startDate": "2026-05-19",
     "endDate": "2026-05-19",
-    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
-    "mode": "alle",
-    "bands": "1,3GHz"
+    "infoUrl": "https://www.darc.de/der-club/referate/conteste/hell-kurz/hell-kurz-regeln/",
+    "mode": "HELL",
+    "bands": "80m,40m"
   },
   {
     "name": "RSGB CC",
@@ -3588,6 +3598,16 @@
     "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
     "mode": "CW/SSB/FM",
     "bands": "70MHz"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-05-19T19:00:00Z",
+    "endTime": "2026-05-19T21:30:00Z",
+    "startDate": "2026-05-19",
+    "endDate": "2026-05-19",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
+    "mode": "alle",
+    "bands": "1,3GHz"
   },
   {
     "name": "RSGB Activity",
@@ -4710,14 +4730,14 @@
     "bands": "432MHz"
   },
   {
-    "name": "CWT Mini Contest",
-    "startTime": "2026-07-15T19:00:00Z",
-    "endTime": "2026-07-15T20:00:00Z",
+    "name": "Ruhr-Aktivität",
+    "startTime": "2026-07-15T17:00:00Z",
+    "endTime": "2026-07-15T19:00:00Z",
     "startDate": "2026-07-15",
     "endDate": "2026-07-15",
-    "infoUrl": "https://cwops.org/cwops-tests/",
-    "mode": "CW",
-    "bands": "160 - 10m"
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "144/432MHz"
   },
   {
     "name": "NRAU Activity",
@@ -4750,14 +4770,14 @@
     "bands": "432MHz"
   },
   {
-    "name": "RSGB CC",
+    "name": "CWT Mini Contest",
     "startTime": "2026-07-15T19:00:00Z",
-    "endTime": "2026-07-15T20:30:00Z",
+    "endTime": "2026-07-15T20:00:00Z",
     "startDate": "2026-07-15",
     "endDate": "2026-07-15",
-    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r80mcc.shtml",
-    "mode": "SSB",
-    "bands": "80m"
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
   },
   {
     "name": "SP Activity",
@@ -4798,6 +4818,16 @@
     "infoUrl": "https://www.darc.de/der-club/referate/conteste/rtty-kurz/rtty-rules/",
     "mode": "RTTY",
     "bands": "80/40m"
+  },
+  {
+    "name": "RSGB CC",
+    "startTime": "2026-07-15T19:00:00Z",
+    "endTime": "2026-07-15T20:30:00Z",
+    "startDate": "2026-07-15",
+    "endDate": "2026-07-15",
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r80mcc.shtml",
+    "mode": "SSB",
+    "bands": "80m"
   },
   {
     "name": "RSGB Activity",
@@ -5510,14 +5540,14 @@
     "bands": "1,3GHz"
   },
   {
-    "name": "CWT Mini Contest",
-    "startTime": "2026-08-19T19:00:00Z",
-    "endTime": "2026-08-19T20:00:00Z",
+    "name": "Ruhr-Aktivität",
+    "startTime": "2026-08-19T17:00:00Z",
+    "endTime": "2026-08-19T19:00:00Z",
     "startDate": "2026-08-19",
     "endDate": "2026-08-19",
-    "infoUrl": "https://cwops.org/cwops-tests/",
-    "mode": "CW",
-    "bands": "160 - 10m"
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "144/432MHz"
   },
   {
     "name": "NRAU Activity",
@@ -5550,14 +5580,24 @@
     "bands": "FM"
   },
   {
-    "name": "RSGB Activity",
+    "name": "DARC HELL-Kurzcontest",
     "startTime": "2026-08-18T19:00:00Z",
-    "endTime": "2026-08-18T21:30:00Z",
+    "endTime": "2026-08-18T20:00:00Z",
     "startDate": "2026-08-18",
     "endDate": "2026-08-18",
-    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
-    "mode": "alle",
-    "bands": "1,3GHz"
+    "infoUrl": "https://www.darc.de/der-club/referate/conteste/hell-kurz/hell-kurz-regeln/",
+    "mode": "HELL",
+    "bands": "80m,40m"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-08-19T19:00:00Z",
+    "endTime": "2026-08-19T20:00:00Z",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-19",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
   },
   {
     "name": "SP Activity",
@@ -5568,6 +5608,16 @@
     "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
     "mode": "CW/SSB/FM",
     "bands": "70MHz"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-08-18T19:00:00Z",
+    "endTime": "2026-08-18T21:30:00Z",
+    "startDate": "2026-08-18",
+    "endDate": "2026-08-18",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
+    "mode": "alle",
+    "bands": "1,3GHz"
   },
   {
     "name": "RSGB Activity",
@@ -6040,14 +6090,14 @@
     "bands": "1,3GHz"
   },
   {
-    "name": "CWT Mini Contest",
-    "startTime": "2026-09-16T19:00:00Z",
-    "endTime": "2026-09-16T20:00:00Z",
+    "name": "Ruhr-Aktivität",
+    "startTime": "2026-09-16T17:00:00Z",
+    "endTime": "2026-09-16T19:00:00Z",
     "startDate": "2026-09-16",
     "endDate": "2026-09-16",
-    "infoUrl": "https://cwops.org/cwops-tests/",
-    "mode": "CW",
-    "bands": "160 - 10m"
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "144/432MHz"
   },
   {
     "name": "NRAU Activity",
@@ -6080,14 +6130,14 @@
     "bands": "1,3GHz"
   },
   {
-    "name": "RSGB Autumn",
+    "name": "CWT Mini Contest",
     "startTime": "2026-09-16T19:00:00Z",
-    "endTime": "2026-09-16T20:30:00Z",
+    "endTime": "2026-09-16T20:00:00Z",
     "startDate": "2026-09-16",
     "endDate": "2026-09-16",
-    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/rautumn.shtml",
+    "infoUrl": "https://cwops.org/cwops-tests/",
     "mode": "CW",
-    "bands": "80m"
+    "bands": "160 - 10m"
   },
   {
     "name": "SP Activity",
@@ -6108,6 +6158,16 @@
     "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf",
     "mode": "alle",
     "bands": "50Mhz and up"
+  },
+  {
+    "name": "RSGB Autumn",
+    "startTime": "2026-09-16T19:00:00Z",
+    "endTime": "2026-09-16T20:30:00Z",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-16",
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/rautumn.shtml",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "RSGB Activity",
@@ -6385,7 +6445,7 @@
     "endTime": "2026-10-04T11:59:00Z",
     "startDate": "2026-10-03",
     "endDate": "2026-10-04",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/russian-digital-contest/",
+    "infoUrl": "https://www.rdrclub.ru/news-radio/russian-ww-digital-contest/51-rus-ww-digi-rules",
     "mode": "RTTY/PSK63",
     "bands": "160-10m"
   },
@@ -6971,8 +7031,8 @@
   },
   {
     "name": "NRAU Activity",
-    "startTime": "2026-10-20T18:00:00Z",
-    "endTime": "2026-10-20T22:00:00Z",
+    "startTime": "2026-10-20T17:00:00Z",
+    "endTime": "2026-10-20T21:00:00Z",
     "startDate": "2026-10-20",
     "endDate": "2026-10-20",
     "infoUrl": "https://vushf.dk/contest/rules/nac-open/",
@@ -7020,14 +7080,14 @@
     "bands": "1,3GHz"
   },
   {
-    "name": "CWT Mini Contest",
-    "startTime": "2026-10-21T19:00:00Z",
-    "endTime": "2026-10-21T20:00:00Z",
+    "name": "Ruhr-Aktivität",
+    "startTime": "2026-10-21T17:00:00Z",
+    "endTime": "2026-10-21T19:00:00Z",
     "startDate": "2026-10-21",
     "endDate": "2026-10-21",
-    "infoUrl": "https://cwops.org/cwops-tests/",
-    "mode": "CW",
-    "bands": "160 - 10m"
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "144/432MHz"
   },
   {
     "name": "RSGB Autumn",
@@ -7048,6 +7108,16 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
     "mode": "alle",
     "bands": "1,3GHz"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-10-21T19:00:00Z",
+    "endTime": "2026-10-21T20:00:00Z",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
   },
   {
     "name": "OK1WC Memorial",
@@ -7111,8 +7181,8 @@
   },
   {
     "name": "SP Activity",
-    "startTime": "2026-10-27T18:00:00Z",
-    "endTime": "2026-10-27T22:00:00Z",
+    "startTime": "2026-10-27T17:00:00Z",
+    "endTime": "2026-10-27T21:00:00Z",
     "startDate": "2026-10-27",
     "endDate": "2026-10-27",
     "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
@@ -7650,14 +7720,14 @@
     "bands": "1,3GHz"
   },
   {
-    "name": "CWT Mini Contest",
-    "startTime": "2026-11-18T19:00:00Z",
+    "name": "Ruhr-Aktivität",
+    "startTime": "2026-11-18T18:00:00Z",
     "endTime": "2026-11-18T20:00:00Z",
     "startDate": "2026-11-18",
     "endDate": "2026-11-18",
-    "infoUrl": "https://cwops.org/cwops-tests/",
-    "mode": "CW",
-    "bands": "160 - 10m"
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "144/432MHz"
   },
   {
     "name": "NRAU Activity",
@@ -7680,14 +7750,24 @@
     "bands": "160m"
   },
   {
-    "name": "RSGB Activity",
-    "startTime": "2026-11-17T20:00:00Z",
-    "endTime": "2026-11-17T22:30:00Z",
+    "name": "DARC HELL-Kurzcontest",
+    "startTime": "2026-11-17T19:00:00Z",
+    "endTime": "2026-11-17T20:00:00Z",
     "startDate": "2026-11-17",
     "endDate": "2026-11-17",
-    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
-    "mode": "alle",
-    "bands": "1,3GHz"
+    "infoUrl": "https://www.darc.de/der-club/referate/conteste/hell-kurz/hell-kurz-regeln/",
+    "mode": "HELL",
+    "bands": "80m,40m"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-11-18T19:00:00Z",
+    "endTime": "2026-11-18T20:00:00Z",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-18",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
   },
   {
     "name": "SP Activity",
@@ -7708,6 +7788,16 @@
     "infoUrl": "https://concours.r-e-f.org/contest/a-propos/ref-160m-contest/",
     "mode": "CW",
     "bands": "160m"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-11-17T20:00:00Z",
+    "endTime": "2026-11-17T22:30:00Z",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-17",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
+    "mode": "alle",
+    "bands": "1,3GHz"
   },
   {
     "name": "RSGB Activity",
@@ -8170,14 +8260,14 @@
     "bands": "1,3GHz"
   },
   {
-    "name": "CWT Mini Contest",
-    "startTime": "2026-12-16T19:00:00Z",
+    "name": "Ruhr-Aktivität",
+    "startTime": "2026-12-16T18:00:00Z",
     "endTime": "2026-12-16T20:00:00Z",
     "startDate": "2026-12-16",
     "endDate": "2026-12-16",
-    "infoUrl": "https://cwops.org/cwops-tests/",
-    "mode": "CW",
-    "bands": "160 - 10m"
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf",
+    "mode": "CW/SSB/FM",
+    "bands": "144/432MHz"
   },
   {
     "name": "NRAU Activity",
@@ -8208,6 +8298,16 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
     "mode": "alle",
     "bands": "1,3GHz"
+  },
+  {
+    "name": "CWT Mini Contest",
+    "startTime": "2026-12-16T19:00:00Z",
+    "endTime": "2026-12-16T20:00:00Z",
+    "startDate": "2026-12-16",
+    "endDate": "2026-12-16",
+    "infoUrl": "https://cwops.org/cwops-tests/",
+    "mode": "CW",
+    "bands": "160 - 10m"
   },
   {
     "name": "SP Activity",

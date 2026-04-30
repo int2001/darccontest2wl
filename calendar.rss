@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 29 Apr 2026 03:10:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Apr 2026 03:11:04 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -752,10 +752,10 @@
 <guid>darc-calendar://ref-contest-ssb-2026-02-21T06:00:00Z</guid>
 </item>
 <item>
-<title>RSGB Activity</title>
-<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
-<description>2000Z-2230Z, Feb 17</description>
-<guid>darc-calendar://rsgb-activity-2026-02-17T20:00:00Z</guid>
+<title>DARC HELL-Kurzcontest</title>
+<link>https://www.darc.de/der-club/referate/conteste/hell-kurz/hell-kurz-regeln/</link>
+<description>1900Z-2000Z, Feb 17</description>
+<guid>darc-calendar://darc-hell-kurzcontest-2026-02-17T19:00:00Z</guid>
 </item>
 <item>
 <title>AGCW Bug</title>
@@ -780,6 +780,12 @@
 <link>https://bergtag.de/termine.html</link>
 <description>0900Z-1300Z, Feb 22</description>
 <guid>darc-calendar://bayerischer-bergtag-2026-02-22T09:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
+<description>2000Z-2230Z, Feb 17</description>
+<guid>darc-calendar://rsgb-activity-2026-02-17T20:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -2144,10 +2150,10 @@
 <guid>darc-calendar://nrau-activity-2026-05-21T17:00:00Z</guid>
 </item>
 <item>
-<title>RSGB Activity</title>
-<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
-<description>1900Z-2130Z, May 19</description>
-<guid>darc-calendar://rsgb-activity-2026-05-19T19:00:00Z</guid>
+<title>DARC HELL-Kurzcontest</title>
+<link>https://www.darc.de/der-club/referate/conteste/hell-kurz/hell-kurz-regeln/</link>
+<description>1900Z-2000Z, May 19</description>
+<guid>darc-calendar://darc-hell-kurzcontest-2026-05-19T19:00:00Z</guid>
 </item>
 <item>
 <title>RSGB CC</title>
@@ -2160,6 +2166,12 @@
 <link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
 <description>1700Z-2100Z, May 21</description>
 <guid>darc-calendar://sp-activity-2026-05-21T17:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
+<description>1900Z-2130Z, May 19</description>
+<guid>darc-calendar://rsgb-activity-2026-05-19T19:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -2834,10 +2846,10 @@
 <guid>darc-calendar://nrau-activity-2026-07-14T17:00:00Z</guid>
 </item>
 <item>
-<title>CWT Mini Contest</title>
-<link>https://cwops.org/cwops-tests/</link>
-<description>1900Z-2000Z, Jul 15</description>
-<guid>darc-calendar://cwt-mini-contest-2026-07-15T19:00:00Z</guid>
+<title>Ruhr-Aktivität</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf</link>
+<description>1700Z-1900Z, Jul 15</description>
+<guid>darc-calendar://ruhr-aktivit-t-2026-07-15T17:00:00Z</guid>
 </item>
 <item>
 <title>NRAU Activity</title>
@@ -2858,10 +2870,10 @@
 <guid>darc-calendar://sp-activity-2026-07-14T17:00:00Z</guid>
 </item>
 <item>
-<title>RSGB CC</title>
-<link>https://www.rsgbcc.org/hf/rules/2026/r80mcc.shtml</link>
-<description>1900Z-2030Z, Jul 15</description>
-<guid>darc-calendar://rsgb-cc-2026-07-15T19:00:00Z</guid>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Jul 15</description>
+<guid>darc-calendar://cwt-mini-contest-2026-07-15T19:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -2886,6 +2898,12 @@
 <link>https://www.darc.de/der-club/referate/conteste/rtty-kurz/rtty-rules/</link>
 <description>1800Z-1929Z, Jul 14</description>
 <guid>darc-calendar://darc-rtty-kurzcontest-2026-07-14T18:00:00Z</guid>
+</item>
+<item>
+<title>RSGB CC</title>
+<link>https://www.rsgbcc.org/hf/rules/2026/r80mcc.shtml</link>
+<description>1900Z-2030Z, Jul 15</description>
+<guid>darc-calendar://rsgb-cc-2026-07-15T19:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -3314,10 +3332,10 @@
 <guid>darc-calendar://sp-activity-2026-08-18T17:00:00Z</guid>
 </item>
 <item>
-<title>CWT Mini Contest</title>
-<link>https://cwops.org/cwops-tests/</link>
-<description>1900Z-2000Z, Aug 19</description>
-<guid>darc-calendar://cwt-mini-contest-2026-08-19T19:00:00Z</guid>
+<title>Ruhr-Aktivität</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf</link>
+<description>1700Z-1900Z, Aug 19</description>
+<guid>darc-calendar://ruhr-aktivit-t-2026-08-19T17:00:00Z</guid>
 </item>
 <item>
 <title>NRAU Activity</title>
@@ -3338,16 +3356,28 @@
 <guid>darc-calendar://2m-einsteiger-contest-2026-08-23T13:00:00Z</guid>
 </item>
 <item>
-<title>RSGB Activity</title>
-<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
-<description>1900Z-2130Z, Aug 18</description>
-<guid>darc-calendar://rsgb-activity-2026-08-18T19:00:00Z</guid>
+<title>DARC HELL-Kurzcontest</title>
+<link>https://www.darc.de/der-club/referate/conteste/hell-kurz/hell-kurz-regeln/</link>
+<description>1900Z-2000Z, Aug 18</description>
+<guid>darc-calendar://darc-hell-kurzcontest-2026-08-18T19:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Aug 19</description>
+<guid>darc-calendar://cwt-mini-contest-2026-08-19T19:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
 <link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
 <description>1700Z-2100Z, Aug 20</description>
 <guid>darc-calendar://sp-activity-2026-08-20T17:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
+<description>1900Z-2130Z, Aug 18</description>
+<guid>darc-calendar://rsgb-activity-2026-08-18T19:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -3632,10 +3662,10 @@
 <guid>darc-calendar://sp-activity-2026-09-15T17:00:00Z</guid>
 </item>
 <item>
-<title>CWT Mini Contest</title>
-<link>https://cwops.org/cwops-tests/</link>
-<description>1900Z-2000Z, Sep 16</description>
-<guid>darc-calendar://cwt-mini-contest-2026-09-16T19:00:00Z</guid>
+<title>Ruhr-Aktivität</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf</link>
+<description>1700Z-1900Z, Sep 16</description>
+<guid>darc-calendar://ruhr-aktivit-t-2026-09-16T17:00:00Z</guid>
 </item>
 <item>
 <title>NRAU Activity</title>
@@ -3656,10 +3686,10 @@
 <guid>darc-calendar://rsgb-activity-2026-09-15T19:00:00Z</guid>
 </item>
 <item>
-<title>RSGB Autumn</title>
-<link>https://www.rsgbcc.org/hf/rules/2026/rautumn.shtml</link>
-<description>1900Z-2030Z, Sep 16</description>
-<guid>darc-calendar://rsgb-autumn-2026-09-16T19:00:00Z</guid>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Sep 16</description>
+<guid>darc-calendar://cwt-mini-contest-2026-09-16T19:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -3672,6 +3702,12 @@
 <link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf</link>
 <description>0700Z-1300Z, Sep 20</description>
 <guid>darc-calendar://oe-aktivit-tstag-2026-09-20T07:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Autumn</title>
+<link>https://www.rsgbcc.org/hf/rules/2026/rautumn.shtml</link>
+<description>1900Z-2030Z, Sep 16</description>
+<guid>darc-calendar://rsgb-autumn-2026-09-16T19:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -3837,7 +3873,7 @@
 </item>
 <item>
 <title>Russian Digital Contest</title>
-<link>https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/russian-digital-contest/</link>
+<link>https://www.rdrclub.ru/news-radio/russian-ww-digital-contest/51-rus-ww-digi-rules</link>
 <description>1200Z, Oct 3 to 1159Z, Oct 4</description>
 <guid>darc-calendar://russian-digital-contest-2026-10-03T12:00:00Z</guid>
 </item>
@@ -4192,8 +4228,8 @@
 <item>
 <title>NRAU Activity</title>
 <link>https://vushf.dk/contest/rules/nac-open/</link>
-<description>1800Z-2200Z, Oct 20</description>
-<guid>darc-calendar://nrau-activity-2026-10-20T18:00:00Z</guid>
+<description>1700Z-2100Z, Oct 20</description>
+<guid>darc-calendar://nrau-activity-2026-10-20T17:00:00Z</guid>
 </item>
 <item>
 <title>FT8 Activity</title>
@@ -4220,10 +4256,10 @@
 <guid>darc-calendar://sp-activity-2026-10-20T17:00:00Z</guid>
 </item>
 <item>
-<title>CWT Mini Contest</title>
-<link>https://cwops.org/cwops-tests/</link>
-<description>1900Z-2000Z, Oct 21</description>
-<guid>darc-calendar://cwt-mini-contest-2026-10-21T19:00:00Z</guid>
+<title>Ruhr-Aktivität</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf</link>
+<description>1700Z-1900Z, Oct 21</description>
+<guid>darc-calendar://ruhr-aktivit-t-2026-10-21T17:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Autumn</title>
@@ -4236,6 +4272,12 @@
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
 <description>1900Z-2130Z, Oct 20</description>
 <guid>darc-calendar://rsgb-activity-2026-10-20T19:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Oct 21</description>
+<guid>darc-calendar://cwt-mini-contest-2026-10-21T19:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -4276,8 +4318,8 @@
 <item>
 <title>SP Activity</title>
 <link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
-<description>1800Z-2200Z, Oct 27</description>
-<guid>darc-calendar://sp-activity-2026-10-27T18:00:00Z</guid>
+<description>1700Z-2100Z, Oct 27</description>
+<guid>darc-calendar://sp-activity-2026-10-27T17:00:00Z</guid>
 </item>
 <item>
 <title>UKEI DX Contest</title>
@@ -4598,10 +4640,10 @@
 <guid>darc-calendar://sp-activity-2026-11-17T18:00:00Z</guid>
 </item>
 <item>
-<title>CWT Mini Contest</title>
-<link>https://cwops.org/cwops-tests/</link>
-<description>1900Z-2000Z, Nov 18</description>
-<guid>darc-calendar://cwt-mini-contest-2026-11-18T19:00:00Z</guid>
+<title>Ruhr-Aktivität</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf</link>
+<description>1800Z-2000Z, Nov 18</description>
+<guid>darc-calendar://ruhr-aktivit-t-2026-11-18T18:00:00Z</guid>
 </item>
 <item>
 <title>NRAU Activity</title>
@@ -4616,10 +4658,16 @@
 <guid>darc-calendar://oe-160m-contest-2026-11-21T16:00:00Z</guid>
 </item>
 <item>
-<title>RSGB Activity</title>
-<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
-<description>2000Z-2230Z, Nov 17</description>
-<guid>darc-calendar://rsgb-activity-2026-11-17T20:00:00Z</guid>
+<title>DARC HELL-Kurzcontest</title>
+<link>https://www.darc.de/der-club/referate/conteste/hell-kurz/hell-kurz-regeln/</link>
+<description>1900Z-2000Z, Nov 17</description>
+<guid>darc-calendar://darc-hell-kurzcontest-2026-11-17T19:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Nov 18</description>
+<guid>darc-calendar://cwt-mini-contest-2026-11-18T19:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -4632,6 +4680,12 @@
 <link>https://concours.r-e-f.org/contest/a-propos/ref-160m-contest/</link>
 <description>1700Z, Nov 21 to 0100Z, Nov 22</description>
 <guid>darc-calendar://ref-160m-2026-11-21T17:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
+<description>2000Z-2230Z, Nov 17</description>
+<guid>darc-calendar://rsgb-activity-2026-11-17T20:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -4910,10 +4964,10 @@
 <guid>darc-calendar://sp-activity-2026-12-15T18:00:00Z</guid>
 </item>
 <item>
-<title>CWT Mini Contest</title>
-<link>https://cwops.org/cwops-tests/</link>
-<description>1900Z-2000Z, Dec 16</description>
-<guid>darc-calendar://cwt-mini-contest-2026-12-16T19:00:00Z</guid>
+<title>Ruhr-Aktivität</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf</link>
+<description>1800Z-2000Z, Dec 16</description>
+<guid>darc-calendar://ruhr-aktivit-t-2026-12-16T18:00:00Z</guid>
 </item>
 <item>
 <title>NRAU Activity</title>
@@ -4932,6 +4986,12 @@
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
 <description>2000Z-2230Z, Dec 15</description>
 <guid>darc-calendar://rsgb-activity-2026-12-15T20:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Dec 16</description>
+<guid>darc-calendar://cwt-mini-contest-2026-12-16T19:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
