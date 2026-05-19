@@ -4800,14 +4800,14 @@
     "bands": "70MHz"
   },
   {
-    "name": "YOTA Contest",
-    "startTime": "2026-07-19T10:00:00Z",
-    "endTime": "2026-07-19T21:59:00Z",
+    "name": "RSGB LP Contest",
+    "startTime": "2026-07-19T09:00:00Z",
+    "endTime": "2026-07-19T16:00:00Z",
     "startDate": "2026-07-19",
     "endDate": "2026-07-19",
-    "infoUrl": "https://yotacontest.mrasz.org/rules-2026/english",
-    "mode": "CW/SSB",
-    "bands": "80 - 10m"
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/rqrp.shtml",
+    "mode": "CW",
+    "bands": "70 - 10m"
   },
   {
     "name": "DARC RTTY-Kurzcontest",
@@ -4910,14 +4910,14 @@
     "bands": ">1GHz"
   },
   {
-    "name": "RSGB LP Contest",
-    "startTime": "2026-07-19T09:00:00Z",
-    "endTime": "2026-07-19T16:00:00Z",
+    "name": "YOTA Contest",
+    "startTime": "2026-07-19T10:00:00Z",
+    "endTime": "2026-07-19T21:59:00Z",
     "startDate": "2026-07-19",
     "endDate": "2026-07-19",
-    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/rqrp.shtml",
-    "mode": "CW",
-    "bands": "70 - 10m"
+    "infoUrl": "https://yotacontest.mrasz.org/rules-2026/english",
+    "mode": "CW/SSB",
+    "bands": "80 - 10m"
   },
   {
     "name": "OK1WC Memorial",

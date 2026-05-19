@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 18 May 2026 03:13:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 03:12:14 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -2888,10 +2888,10 @@
 <guid>darc-calendar://rsgb-trophy-contest-2026-07-18T14:00:00Z</guid>
 </item>
 <item>
-<title>YOTA Contest</title>
-<link>https://yotacontest.mrasz.org/rules-2026/english</link>
-<description>1000Z-2159Z, Jul 19</description>
-<guid>darc-calendar://yota-contest-2026-07-19T10:00:00Z</guid>
+<title>RSGB LP Contest</title>
+<link>https://www.rsgbcc.org/hf/rules/2026/rqrp.shtml</link>
+<description>0900Z-1600Z, Jul 19</description>
+<guid>darc-calendar://rsgb-lp-contest-2026-07-19T09:00:00Z</guid>
 </item>
 <item>
 <title>DARC RTTY-Kurzcontest</title>
@@ -2954,10 +2954,10 @@
 <guid>darc-calendar://dur-ghz-aktivit-t-2026-07-19T08:00:00Z</guid>
 </item>
 <item>
-<title>RSGB LP Contest</title>
-<link>https://www.rsgbcc.org/hf/rules/2026/rqrp.shtml</link>
-<description>0900Z-1600Z, Jul 19</description>
-<guid>darc-calendar://rsgb-lp-contest-2026-07-19T09:00:00Z</guid>
+<title>YOTA Contest</title>
+<link>https://yotacontest.mrasz.org/rules-2026/english</link>
+<description>1000Z-2159Z, Jul 19</description>
+<guid>darc-calendar://yota-contest-2026-07-19T10:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
