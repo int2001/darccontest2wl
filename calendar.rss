@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 19 May 2026 03:12:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 03:12:27 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -60,6 +60,12 @@
 <link>https://www.rsgbcc.org/hf/rules/2026/rafs.shtml</link>
 <description>1300Z-1700Z, Jan 3</description>
 <guid>darc-calendar://rsgb-afs-2026-01-03T13:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Jan 4</description>
+<guid>darc-calendar://sunday-race-2026-01-04T15:00:00Z</guid>
 </item>
 <item>
 <title>ARRL RTTY Roundup</title>
@@ -150,6 +156,12 @@
 <link>https://www.darc.de/der-club/distrikte/r/contestauswertung/contestausschreibung/</link>
 <description>0800Z-1300Z, Jan 10</description>
 <guid>darc-calendar://distrikt-r-contest-2026-01-10T08:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Jan 11</description>
+<guid>darc-calendar://sunday-race-2026-01-11T15:00:00Z</guid>
 </item>
 <item>
 <title>NRAU Activity</title>
@@ -320,6 +332,12 @@
 <guid>darc-calendar://vfdb-dlpx-contest-2026-01-18T14:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Jan 18</description>
+<guid>darc-calendar://sunday-race-2026-01-18T15:00:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Jan 19</description>
@@ -386,6 +404,12 @@
 <guid>darc-calendar://bartg-sprint-2026-01-24T12:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Jan 25</description>
+<guid>darc-calendar://sunday-race-2026-01-25T15:00:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Jan 26</description>
@@ -426,6 +450,12 @@
 <link>https://www.ukeicc.com/80m-rules.php</link>
 <description>2000Z-2100Z, Jan 28</description>
 <guid>darc-calendar://ukei-80m-contest-2026-01-28T20:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Feb 1</description>
+<guid>darc-calendar://sunday-race-2026-02-01T15:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -546,6 +576,12 @@
 <link>https://www.agcw.de/contest/htp/</link>
 <description>1600Z-1900Z, Feb 7</description>
 <guid>darc-calendar://agcw-htp-80m-2026-02-07T16:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Feb 8</description>
+<guid>darc-calendar://sunday-race-2026-02-08T15:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -698,6 +734,12 @@
 <guid>darc-calendar://dur-ghz-aktivit-t-2026-02-15T08:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Feb 15</description>
+<guid>darc-calendar://sunday-race-2026-02-15T15:00:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Feb 16</description>
@@ -812,6 +854,12 @@
 <guid>darc-calendar://2m-einsteiger-contest-2026-02-22T14:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Feb 22</description>
+<guid>darc-calendar://sunday-race-2026-02-22T15:00:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Feb 23</description>
@@ -876,6 +924,12 @@
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=shfukac</link>
 <description>1930Z-2230Z, Feb 24</description>
 <guid>darc-calendar://rsgb-activity-2026-02-24T19:30:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Mar 1</description>
+<guid>darc-calendar://sunday-race-2026-03-01T15:00:00Z</guid>
 </item>
 <item>
 <title>UBA Spring</title>
@@ -990,6 +1044,12 @@
 <link>https://radiosport.yu1srs.org.rs/HFTeslaMemorial/index.php/rules</link>
 <description>1800Z, Mar 7 to 0559Z, Mar 8</description>
 <guid>darc-calendar://tesla-contest-2026-03-07T18:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Mar 8</description>
+<guid>darc-calendar://sunday-race-2026-03-08T15:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -1160,6 +1220,12 @@
 <guid>darc-calendar://yota-contest-2026-03-15T10:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Mar 15</description>
+<guid>darc-calendar://sunday-race-2026-03-15T15:00:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Mar 16</description>
@@ -1268,6 +1334,12 @@
 <guid>darc-calendar://rsgb-activity-2026-03-19T20:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Mar 22</description>
+<guid>darc-calendar://sunday-race-2026-03-22T15:00:00Z</guid>
+</item>
+<item>
 <title>NRAU Activity</title>
 <link>https://vushf.dk/contest/rules/nac-open/</link>
 <description>1800Z-2200Z, Mar 24</description>
@@ -1328,6 +1400,12 @@
 <guid>darc-calendar://rsgb-activity-2026-03-24T19:30:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Mar 29</description>
+<guid>darc-calendar://sunday-race-2026-03-29T15:00:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Mar 30</description>
@@ -1368,6 +1446,12 @@
 <link>https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest001/tnukwcontest007000/</link>
 <description>1200Z-1559Z, Apr 4</description>
 <guid>darc-calendar://darc-ukw-fr-hlingswettbewerb-2026-04-04T12:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Apr 5</description>
+<guid>darc-calendar://sunday-race-2026-04-05T17:30:00Z</guid>
 </item>
 <item>
 <title>EA RTTY Contest</title>
@@ -1506,6 +1590,12 @@
 <link>https://www.ig-ry.de/ig-ry-ww-contest</link>
 <description>1200Z, Apr 11 to 1800Z, Apr 12</description>
 <guid>darc-calendar://ig-ry-ww-rtty-2026-04-11T12:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Apr 12</description>
+<guid>darc-calendar://sunday-race-2026-04-12T17:30:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -1664,6 +1754,12 @@
 <guid>darc-calendar://dur-ghz-aktivit-t-2026-04-19T08:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Apr 19</description>
+<guid>darc-calendar://sunday-race-2026-04-19T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Apr 20</description>
@@ -1734,6 +1830,12 @@
 <link>https://bartg.org.uk/wp-content/uploads/2025/05/bartg-sprint75-rules-2025-v3.pdf</link>
 <description>1700Z-2059Z, Apr 26</description>
 <guid>darc-calendar://bartg-ry75-sprint-2026-04-26T17:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Apr 26</description>
+<guid>darc-calendar://sunday-race-2026-04-26T17:30:00Z</guid>
 </item>
 <item>
 <title>EUCW QRS PARTY</title>
@@ -1818,6 +1920,12 @@
 <link>https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest002/tnukwcontest007001/</link>
 <description>1400Z, May 2 to 1359Z, May 3</description>
 <guid>darc-calendar://darc-ukw-wettbewerb-2026-05-02T14:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, May 3</description>
+<guid>darc-calendar://sunday-race-2026-05-03T17:30:00Z</guid>
 </item>
 <item>
 <title>Aktivitätswoche des DTC 24:00</title>
@@ -1914,6 +2022,12 @@
 <link>https://www.darc.de/fileadmin/filemounts/distrikte/k/raa2026/raa-ausschreibung-2026.pdf</link>
 <description>1600Z-1800Z, May 9</description>
 <guid>darc-calendar://rheinland-pfalz-aktivit-tsabend-2026-05-09T16:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, May 10</description>
+<guid>darc-calendar://sunday-race-2026-05-10T17:30:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -2096,6 +2210,12 @@
 <guid>darc-calendar://dur-ghz-aktivit-t-2026-05-17T08:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, May 17</description>
+<guid>darc-calendar://sunday-race-2026-05-17T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, May 18</description>
@@ -2148,6 +2268,12 @@
 <link>https://vushf.dk/contest/rules/nac-open/</link>
 <description>1700Z-2100Z, May 21</description>
 <guid>darc-calendar://nrau-activity-2026-05-21T17:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, May 24</description>
+<guid>darc-calendar://sunday-race-2026-05-24T17:30:00Z</guid>
 </item>
 <item>
 <title>DARC HELL-Kurzcontest</title>
@@ -2246,6 +2372,12 @@
 <guid>darc-calendar://aktivit-tstag-distr-r-2026-05-30T13:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, May 31</description>
+<guid>darc-calendar://sunday-race-2026-05-31T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Jun 1</description>
@@ -2274,6 +2406,12 @@
 <link>https://www.tiszacup.eu/index.php/en/contest-rules/</link>
 <description>0200Z-1459Z, Jun 6</description>
 <guid>darc-calendar://tisza-cup-cw-2026-06-06T02:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Jun 7</description>
+<guid>darc-calendar://sunday-race-2026-06-07T17:30:00Z</guid>
 </item>
 <item>
 <title>RSGB CC</title>
@@ -2400,6 +2538,12 @@
 <link>https://jsfc.org/apsprint/aprule.txt</link>
 <description>1100Z-1300Z, Jun 13</description>
 <guid>darc-calendar://asia-pacific-sprint-2026-06-13T11:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Jun 14</description>
+<guid>darc-calendar://sunday-race-2026-06-14T17:30:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -2606,6 +2750,12 @@
 <guid>darc-calendar://dur-ghz-aktivit-t-2026-06-21T08:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Jun 21</description>
+<guid>darc-calendar://sunday-race-2026-06-21T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Jun 22</description>
@@ -2666,6 +2816,12 @@
 <guid>darc-calendar://2m-einsteiger-contest-2026-06-28T13:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Jun 28</description>
+<guid>darc-calendar://sunday-race-2026-06-28T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Jun 29</description>
@@ -2712,6 +2868,12 @@
 <link>http://www.qrpcc.de/contestrules/oqrpr-d.html</link>
 <description>1500Z, Jul 4 to 1500Z, Jul 5</description>
 <guid>darc-calendar://original-qrp-contest-2026-07-04T15:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Jul 5</description>
+<guid>darc-calendar://sunday-race-2026-07-05T17:30:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -2784,6 +2946,12 @@
 <link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
 <description>1700Z-2100Z, Jul 9</description>
 <guid>darc-calendar://sp-activity-2026-07-09T17:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Jul 12</description>
+<guid>darc-calendar://sunday-race-2026-07-12T17:30:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -2960,6 +3128,12 @@
 <guid>darc-calendar://yota-contest-2026-07-19T10:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Jul 19</description>
+<guid>darc-calendar://sunday-race-2026-07-19T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Jul 20</description>
@@ -3000,6 +3174,12 @@
 <link>https://www.rsgbcc.org/hf/rules/2026/r80mcc.shtml</link>
 <description>1900Z-2030Z, Jul 23</description>
 <guid>darc-calendar://rsgb-cc-2026-07-23T19:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Jul 26</description>
+<guid>darc-calendar://sunday-race-2026-07-26T17:30:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -3078,6 +3258,12 @@
 <link>https://euhf.s5cc.eu/euhfc_rules/</link>
 <description>1200Z-2359Z, Aug 1</description>
 <guid>darc-calendar://euhf-championship-2026-08-01T12:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Aug 2</description>
+<guid>darc-calendar://sunday-race-2026-08-02T17:30:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -3162,6 +3348,12 @@
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=2mukac</link>
 <description>1900Z-2130Z, Aug 4</description>
 <guid>darc-calendar://rsgb-activity-2026-08-04T19:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Aug 9</description>
+<guid>darc-calendar://sunday-race-2026-08-09T17:30:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -3290,6 +3482,12 @@
 <guid>darc-calendar://dur-ghz-aktivit-t-2026-08-16T08:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Aug 16</description>
+<guid>darc-calendar://sunday-race-2026-08-16T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Aug 17</description>
@@ -3374,6 +3572,12 @@
 <guid>darc-calendar://sp-activity-2026-08-20T17:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Aug 23</description>
+<guid>darc-calendar://sunday-race-2026-08-23T17:30:00Z</guid>
+</item>
+<item>
 <title>RSGB Activity</title>
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
 <description>1900Z-2130Z, Aug 18</description>
@@ -3440,6 +3644,12 @@
 <guid>darc-calendar://hsw-contest-2026-08-29T06:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Aug 30</description>
+<guid>darc-calendar://sunday-race-2026-08-30T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Aug 31</description>
@@ -3486,6 +3696,12 @@
 <link>https://cwops.org/cwops-tests/cw-open/</link>
 <description>0000Z-2359Z, Sep 5</description>
 <guid>darc-calendar://cw-open-competition-2026-09-05T00:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Sep 6</description>
+<guid>darc-calendar://sunday-race-2026-09-06T17:30:00Z</guid>
 </item>
 <item>
 <title>NRAU Activity</title>
@@ -3588,6 +3804,12 @@
 <link>https://vushf.dk/contest/rules/nac-open/</link>
 <description>1700Z-2100Z, Sep 10</description>
 <guid>darc-calendar://nrau-activity-2026-09-10T17:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Sep 13</description>
+<guid>darc-calendar://sunday-race-2026-09-13T17:30:00Z</guid>
 </item>
 <item>
 <title>RSGB Autumn</title>
@@ -3758,6 +3980,12 @@
 <guid>darc-calendar://bartg-psk63-sprint-2026-09-20T17:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Sep 20</description>
+<guid>darc-calendar://sunday-race-2026-09-20T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Sep 21</description>
@@ -3822,6 +4050,12 @@
 <link>https://www.uba.be/en/hf/contest-rules/on-contest</link>
 <description>0700Z-1000Z, Sep 27</description>
 <guid>darc-calendar://on-contest-2026-09-27T07:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Sep 27</description>
+<guid>darc-calendar://sunday-race-2026-09-27T17:30:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -3906,6 +4140,12 @@
 <link>https://www.darc.de/der-club/distrikte/i/conteste/#c9384</link>
 <description>0800Z-1400Z, Oct 3</description>
 <guid>darc-calendar://nordsee-aktivit-tstag-2026-10-03T08:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Oct 4</description>
+<guid>darc-calendar://sunday-race-2026-10-04T17:30:00Z</guid>
 </item>
 <item>
 <title>Aktivitätswoche des DTC</title>
@@ -4038,6 +4278,12 @@
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=2mukac</link>
 <description>1900Z-2130Z, Oct 6</description>
 <guid>darc-calendar://rsgb-activity-2026-10-06T19:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Oct 11</description>
+<guid>darc-calendar://sunday-race-2026-10-11T17:30:00Z</guid>
 </item>
 <item>
 <title>Asia-Pacific Sprint</title>
@@ -4220,6 +4466,12 @@
 <guid>darc-calendar://rsgb-50mhz-afs-contest-2026-10-18T09:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1730Z-1800Z, Oct 18</description>
+<guid>darc-calendar://sunday-race-2026-10-18T17:30:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Oct 19</description>
@@ -4266,6 +4518,12 @@
 <link>https://www.rsgbcc.org/hf/rules/2026/rautumn.shtml</link>
 <description>1900Z-2030Z, Oct 22</description>
 <guid>darc-calendar://rsgb-autumn-2026-10-22T19:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Oct 25</description>
+<guid>darc-calendar://sunday-race-2026-10-25T15:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -4350,6 +4608,12 @@
 <link>https://hsc.lima-city.de/de/konteste.html</link>
 <description>1400Z-1700Z, Nov 1</description>
 <guid>darc-calendar://hsc-cw-contest-2026-11-01T14:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Nov 1</description>
+<guid>darc-calendar://sunday-race-2026-11-01T15:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -4458,6 +4722,12 @@
 <link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf</link>
 <description>0600Z-1800Z, Nov 8</description>
 <guid>darc-calendar://ipa-radio-club-contest-2026-11-08T06:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Nov 8</description>
+<guid>darc-calendar://sunday-race-2026-11-08T15:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -4598,6 +4868,12 @@
 <guid>darc-calendar://hot-party-2026-11-15T13:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Nov 15</description>
+<guid>darc-calendar://sunday-race-2026-11-15T15:00:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Nov 16</description>
@@ -4656,6 +4932,12 @@
 <link>https://www.oevsv.at/export/shared/.content/.galleries/Downloads_Referate/HF-Referat-Downloads/Regeln_Aoec_160m_2020.pdf</link>
 <description>1600Z-2359Z, Nov 21</description>
 <guid>darc-calendar://oe-160m-contest-2026-11-21T16:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Nov 22</description>
+<guid>darc-calendar://sunday-race-2026-11-22T15:00:00Z</guid>
 </item>
 <item>
 <title>DARC HELL-Kurzcontest</title>
@@ -4740,6 +5022,12 @@
 <link>https://www.rsgbcc.org/hf/rules/2026/rautumn.shtml</link>
 <description>2000Z-2130Z, Nov 26</description>
 <guid>darc-calendar://rsgb-autumn-2026-11-26T20:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Nov 29</description>
+<guid>darc-calendar://sunday-race-2026-11-29T15:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -4832,6 +5120,12 @@
 <guid>darc-calendar://rsgb-activity-2026-12-01T20:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Dec 6</description>
+<guid>darc-calendar://sunday-race-2026-12-06T15:00:00Z</guid>
+</item>
+<item>
 <title>OK1WC Memorial</title>
 <link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
 <description>1630Z-1729Z, Dec 7</description>
@@ -4916,6 +5210,12 @@
 <guid>darc-calendar://rsgb-activity-2026-12-10T20:00:00Z</guid>
 </item>
 <item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Dec 13</description>
+<guid>darc-calendar://sunday-race-2026-12-13T15:00:00Z</guid>
+</item>
+<item>
 <title>RSGB Activity</title>
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=70cmsukac</link>
 <description>2000Z-2230Z, Dec 8</description>
@@ -4950,6 +5250,12 @@
 <link>http://okrtty.crk.cz/index.php?page=english</link>
 <description>0000Z-2400Z, Dec 19</description>
 <guid>darc-calendar://ok-dx-rtty-contest-2026-12-19T00:00:00Z</guid>
+</item>
+<item>
+<title>OE Aktivitätstag</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf</link>
+<description>0700Z-1300Z, Dec 20</description>
+<guid>darc-calendar://oe-aktivit-tstag-2026-12-20T07:00:00Z</guid>
 </item>
 <item>
 <title>RSGB FT4 Contest</title>
@@ -5000,22 +5306,16 @@
 <guid>darc-calendar://sp-activity-2026-12-17T18:00:00Z</guid>
 </item>
 <item>
-<title>OE Aktivitätstag</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf</link>
-<description>0700Z-1300Z, Dec 20</description>
-<guid>darc-calendar://oe-aktivit-tstag-2026-12-20T07:00:00Z</guid>
+<title>S5 Activity</title>
+<link>http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf</link>
+<description>0700Z-1259Z, Dec 20</description>
+<guid>darc-calendar://s5-activity-2026-12-20T07:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=4mukac</link>
 <description>2000Z-2230Z, Dec 17</description>
 <guid>darc-calendar://rsgb-activity-2026-12-17T20:00:00Z</guid>
-</item>
-<item>
-<title>S5 Activity</title>
-<link>http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf</link>
-<description>0700Z-1259Z, Dec 20</description>
-<guid>darc-calendar://s5-activity-2026-12-20T07:00:00Z</guid>
 </item>
 <item>
 <title>GMA Contest</title>
@@ -5034,6 +5334,12 @@
 <link>https://dl0tud.tu-dresden.de/wordpress/index.php/dur/</link>
 <description>0800Z-1200Z, Dec 20</description>
 <guid>darc-calendar://dur-ghz-aktivit-t-2026-12-20T08:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Dec 20</description>
+<guid>darc-calendar://sunday-race-2026-12-20T15:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -5100,6 +5406,12 @@
 <link>https://www.darc.de/fileadmin/filemounts/distrikte/a/ortsverbaende/22/FM_SESSION_WINTER_2025-12_rev1.pdf</link>
 <description>1300Z-1500Z, Dec 27</description>
 <guid>darc-calendar://kraichgauer-fm-session-2026-12-27T13:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/Documents/contest_rules_EN.pdf</link>
+<description>1500Z-1530Z, Dec 27</description>
+<guid>darc-calendar://sunday-race-2026-12-27T15:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>

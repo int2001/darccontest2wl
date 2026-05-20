@@ -90,6 +90,16 @@
     "bands": "80/40m"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-01-04T15:00:00Z",
+    "endTime": "2026-01-04T15:30:00Z",
+    "startDate": "2026-01-04",
+    "endDate": "2026-01-04",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "ARRL RTTY Roundup",
     "startTime": "2026-01-03T18:00:00Z",
     "endTime": "2026-01-04T23:59:00Z",
@@ -238,6 +248,16 @@
     "infoUrl": "https://www.darc.de/der-club/distrikte/r/contestauswertung/contestausschreibung/",
     "mode": "CW/SSB",
     "bands": "80/40/10m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-01-11T15:00:00Z",
+    "endTime": "2026-01-11T15:30:00Z",
+    "startDate": "2026-01-11",
+    "endDate": "2026-01-11",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "NRAU Activity",
@@ -520,6 +540,16 @@
     "bands": "80m"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-01-18T15:00:00Z",
+    "endTime": "2026-01-18T15:30:00Z",
+    "startDate": "2026-01-18",
+    "endDate": "2026-01-18",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-01-19T16:30:00Z",
     "endTime": "2026-01-19T17:29:00Z",
@@ -630,6 +660,16 @@
     "bands": "80 - 10m"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-01-25T15:00:00Z",
+    "endTime": "2026-01-25T15:30:00Z",
+    "startDate": "2026-01-25",
+    "endDate": "2026-01-25",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-01-26T16:30:00Z",
     "endTime": "2026-01-26T17:29:00Z",
@@ -696,6 +736,16 @@
     "startDate": "2026-01-28",
     "endDate": "2026-01-28",
     "infoUrl": "https://www.ukeicc.com/80m-rules.php",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-02-01T15:00:00Z",
+    "endTime": "2026-02-01T15:30:00Z",
+    "startDate": "2026-02-01",
+    "endDate": "2026-02-01",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
     "mode": "CW",
     "bands": "80m"
   },
@@ -896,6 +946,16 @@
     "startDate": "2026-02-07",
     "endDate": "2026-02-07",
     "infoUrl": "https://www.agcw.de/contest/htp/",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-02-08T15:00:00Z",
+    "endTime": "2026-02-08T15:30:00Z",
+    "startDate": "2026-02-08",
+    "endDate": "2026-02-08",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
     "mode": "CW",
     "bands": "80m"
   },
@@ -1150,6 +1210,16 @@
     "bands": ">1GHz"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-02-15T15:00:00Z",
+    "endTime": "2026-02-15T15:30:00Z",
+    "startDate": "2026-02-15",
+    "endDate": "2026-02-15",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-02-16T16:30:00Z",
     "endTime": "2026-02-16T17:29:00Z",
@@ -1340,6 +1410,16 @@
     "bands": "FM"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-02-22T15:00:00Z",
+    "endTime": "2026-02-22T15:30:00Z",
+    "startDate": "2026-02-22",
+    "endDate": "2026-02-22",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-02-23T16:30:00Z",
     "endTime": "2026-02-23T17:29:00Z",
@@ -1448,6 +1528,16 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=shfukac",
     "mode": "alle",
     "bands": "µW"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-03-01T15:00:00Z",
+    "endTime": "2026-03-01T15:30:00Z",
+    "startDate": "2026-03-01",
+    "endDate": "2026-03-01",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "UBA Spring",
@@ -1638,6 +1728,16 @@
     "infoUrl": "https://radiosport.yu1srs.org.rs/HFTeslaMemorial/index.php/rules",
     "mode": "CW",
     "bands": "80/40m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-03-08T15:00:00Z",
+    "endTime": "2026-03-08T15:30:00Z",
+    "startDate": "2026-03-08",
+    "endDate": "2026-03-08",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -1920,6 +2020,16 @@
     "bands": "80 - 10m"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-03-15T15:00:00Z",
+    "endTime": "2026-03-15T15:30:00Z",
+    "startDate": "2026-03-15",
+    "endDate": "2026-03-15",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-03-16T16:30:00Z",
     "endTime": "2026-03-16T17:29:00Z",
@@ -2100,6 +2210,16 @@
     "bands": "70MHz"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-03-22T15:00:00Z",
+    "endTime": "2026-03-22T15:30:00Z",
+    "startDate": "2026-03-22",
+    "endDate": "2026-03-22",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "NRAU Activity",
     "startTime": "2026-03-24T18:00:00Z",
     "endTime": "2026-03-24T22:00:00Z",
@@ -2200,6 +2320,16 @@
     "bands": "µW"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-03-29T15:00:00Z",
+    "endTime": "2026-03-29T15:30:00Z",
+    "startDate": "2026-03-29",
+    "endDate": "2026-03-29",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-03-30T16:30:00Z",
     "endTime": "2026-03-30T17:29:00Z",
@@ -2268,6 +2398,16 @@
     "infoUrl": "https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest001/tnukwcontest007000/",
     "mode": "CW/SSB/FM",
     "bands": "144MHz - Laser"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-04-05T17:30:00Z",
+    "endTime": "2026-04-05T18:00:00Z",
+    "startDate": "2026-04-05",
+    "endDate": "2026-04-05",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "EA RTTY Contest",
@@ -2498,6 +2638,16 @@
     "infoUrl": "https://www.ig-ry.de/ig-ry-ww-contest",
     "mode": "RTTY",
     "bands": "80 - 10m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-04-12T17:30:00Z",
+    "endTime": "2026-04-12T18:00:00Z",
+    "startDate": "2026-04-12",
+    "endDate": "2026-04-12",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -2760,6 +2910,16 @@
     "bands": ">1GHz"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-04-19T17:30:00Z",
+    "endTime": "2026-04-19T18:00:00Z",
+    "startDate": "2026-04-19",
+    "endDate": "2026-04-19",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-04-20T16:30:00Z",
     "endTime": "2026-04-20T17:29:00Z",
@@ -2878,6 +3038,16 @@
     "infoUrl": "https://bartg.org.uk/wp-content/uploads/2025/05/bartg-sprint75-rules-2025-v3.pdf",
     "mode": "RTTY",
     "bands": "80 - 10m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-04-26T17:30:00Z",
+    "endTime": "2026-04-26T18:00:00Z",
+    "startDate": "2026-04-26",
+    "endDate": "2026-04-26",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "EUCW QRS PARTY",
@@ -3018,6 +3188,16 @@
     "infoUrl": "https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest002/tnukwcontest007001/",
     "mode": "CW/SSB/FM",
     "bands": "144 MHz - Laser"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-05-03T17:30:00Z",
+    "endTime": "2026-05-03T18:00:00Z",
+    "startDate": "2026-05-03",
+    "endDate": "2026-05-03",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "Aktivitätswoche des DTC 24:00",
@@ -3178,6 +3358,16 @@
     "infoUrl": "https://www.darc.de/fileadmin/filemounts/distrikte/k/raa2026/raa-ausschreibung-2026.pdf",
     "mode": "Alle",
     "bands": "144MHz"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-05-10T17:30:00Z",
+    "endTime": "2026-05-10T18:00:00Z",
+    "startDate": "2026-05-10",
+    "endDate": "2026-05-10",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "SP Activity",
@@ -3480,6 +3670,16 @@
     "bands": ">1GHz"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-05-17T17:30:00Z",
+    "endTime": "2026-05-17T18:00:00Z",
+    "startDate": "2026-05-17",
+    "endDate": "2026-05-17",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-05-18T16:30:00Z",
     "endTime": "2026-05-18T17:29:00Z",
@@ -3568,6 +3768,16 @@
     "infoUrl": "https://vushf.dk/contest/rules/nac-open/",
     "mode": "alle",
     "bands": "70MHz"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-05-24T17:30:00Z",
+    "endTime": "2026-05-24T18:00:00Z",
+    "startDate": "2026-05-24",
+    "endDate": "2026-05-24",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "DARC HELL-Kurzcontest",
@@ -3730,6 +3940,16 @@
     "bands": "144/432/1296"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-05-31T17:30:00Z",
+    "endTime": "2026-05-31T18:00:00Z",
+    "startDate": "2026-05-31",
+    "endDate": "2026-05-31",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-06-01T16:30:00Z",
     "endTime": "2026-06-01T17:29:00Z",
@@ -3778,6 +3998,16 @@
     "infoUrl": "https://www.tiszacup.eu/index.php/en/contest-rules/",
     "mode": "CW",
     "bands": "160 - 10m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-06-07T17:30:00Z",
+    "endTime": "2026-06-07T18:00:00Z",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "RSGB CC",
@@ -3988,6 +4218,16 @@
     "infoUrl": "https://jsfc.org/apsprint/aprule.txt",
     "mode": "SSB",
     "bands": "15/20m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-06-14T17:30:00Z",
+    "endTime": "2026-06-14T18:00:00Z",
+    "startDate": "2026-06-14",
+    "endDate": "2026-06-14",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "SP Activity",
@@ -4330,6 +4570,16 @@
     "bands": ">1GHz"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-06-21T17:30:00Z",
+    "endTime": "2026-06-21T18:00:00Z",
+    "startDate": "2026-06-21",
+    "endDate": "2026-06-21",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-06-22T16:30:00Z",
     "endTime": "2026-06-22T17:29:00Z",
@@ -4430,6 +4680,16 @@
     "bands": "FM"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-06-28T17:30:00Z",
+    "endTime": "2026-06-28T18:00:00Z",
+    "startDate": "2026-06-28",
+    "endDate": "2026-06-28",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-06-29T16:30:00Z",
     "endTime": "2026-06-29T17:29:00Z",
@@ -4508,6 +4768,16 @@
     "infoUrl": "http://www.qrpcc.de/contestrules/oqrpr-d.html",
     "mode": "CW/SSB",
     "bands": "80 - 10m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-07-05T17:30:00Z",
+    "endTime": "2026-07-05T18:00:00Z",
+    "startDate": "2026-07-05",
+    "endDate": "2026-07-05",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -4628,6 +4898,16 @@
     "infoUrl": "https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf",
     "mode": "CW/SSB/FM",
     "bands": "50MHz"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-07-12T17:30:00Z",
+    "endTime": "2026-07-12T18:00:00Z",
+    "startDate": "2026-07-12",
+    "endDate": "2026-07-12",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "SP Activity",
@@ -4920,6 +5200,16 @@
     "bands": "80 - 10m"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-07-19T17:30:00Z",
+    "endTime": "2026-07-19T18:00:00Z",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-19",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-07-20T16:30:00Z",
     "endTime": "2026-07-20T17:29:00Z",
@@ -4987,6 +5277,16 @@
     "endDate": "2026-07-23",
     "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r80mcc.shtml",
     "mode": "Data",
+    "bands": "80m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-07-26T17:30:00Z",
+    "endTime": "2026-07-26T18:00:00Z",
+    "startDate": "2026-07-26",
+    "endDate": "2026-07-26",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
     "bands": "80m"
   },
   {
@@ -5118,6 +5418,16 @@
     "infoUrl": "https://euhf.s5cc.eu/euhfc_rules/",
     "mode": "CW/SSB",
     "bands": "160-10m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-08-02T17:30:00Z",
+    "endTime": "2026-08-02T18:00:00Z",
+    "startDate": "2026-08-02",
+    "endDate": "2026-08-02",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -5258,6 +5568,16 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=2mukac",
     "mode": "alle",
     "bands": "144MHz"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-08-09T17:30:00Z",
+    "endTime": "2026-08-09T18:00:00Z",
+    "startDate": "2026-08-09",
+    "endDate": "2026-08-09",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -5470,6 +5790,16 @@
     "bands": ">1GHz"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-08-16T17:30:00Z",
+    "endTime": "2026-08-16T18:00:00Z",
+    "startDate": "2026-08-16",
+    "endDate": "2026-08-16",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-08-17T16:30:00Z",
     "endTime": "2026-08-17T17:29:00Z",
@@ -5610,6 +5940,16 @@
     "bands": "70MHz"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-08-23T17:30:00Z",
+    "endTime": "2026-08-23T18:00:00Z",
+    "startDate": "2026-08-23",
+    "endDate": "2026-08-23",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "RSGB Activity",
     "startTime": "2026-08-18T19:00:00Z",
     "endTime": "2026-08-18T21:30:00Z",
@@ -5720,6 +6060,16 @@
     "bands": "80/10/2/70cm"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-08-30T17:30:00Z",
+    "endTime": "2026-08-30T18:00:00Z",
+    "startDate": "2026-08-30",
+    "endDate": "2026-08-30",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-08-31T16:30:00Z",
     "endTime": "2026-08-31T17:29:00Z",
@@ -5798,6 +6148,16 @@
     "infoUrl": "https://cwops.org/cwops-tests/cw-open/",
     "mode": "CW",
     "bands": "160-10m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-09-06T17:30:00Z",
+    "endTime": "2026-09-06T18:00:00Z",
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "NRAU Activity",
@@ -5968,6 +6328,16 @@
     "infoUrl": "https://vushf.dk/contest/rules/nac-open/",
     "mode": "alle",
     "bands": "50MHz"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-09-13T17:30:00Z",
+    "endTime": "2026-09-13T18:00:00Z",
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-13",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "RSGB Autumn",
@@ -6250,6 +6620,16 @@
     "bands": "80m - 10m"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-09-20T17:30:00Z",
+    "endTime": "2026-09-20T18:00:00Z",
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-20",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-09-21T16:30:00Z",
     "endTime": "2026-09-21T17:29:00Z",
@@ -6358,6 +6738,16 @@
     "infoUrl": "https://www.uba.be/en/hf/contest-rules/on-contest",
     "mode": "CW/SSB",
     "bands": "6m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-09-27T17:30:00Z",
+    "endTime": "2026-09-27T18:00:00Z",
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -6498,6 +6888,16 @@
     "infoUrl": "https://www.darc.de/der-club/distrikte/i/conteste/#c9384",
     "mode": "CW/SSB",
     "bands": "80/10/2/70"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-10-04T17:30:00Z",
+    "endTime": "2026-10-04T18:00:00Z",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "Aktivitätswoche des DTC",
@@ -6718,6 +7118,16 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=2mukac",
     "mode": "alle",
     "bands": "144MHz"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-10-11T17:30:00Z",
+    "endTime": "2026-10-11T18:00:00Z",
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "Asia-Pacific Sprint",
@@ -7020,6 +7430,16 @@
     "bands": "alle"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-10-18T17:30:00Z",
+    "endTime": "2026-10-18T18:00:00Z",
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-18",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-10-19T16:30:00Z",
     "endTime": "2026-10-19T17:29:00Z",
@@ -7097,6 +7517,16 @@
     "endDate": "2026-10-22",
     "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/rautumn.shtml",
     "mode": "SSB",
+    "bands": "80m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-10-25T15:00:00Z",
+    "endTime": "2026-10-25T15:30:00Z",
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-25",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
     "bands": "80m"
   },
   {
@@ -7238,6 +7668,16 @@
     "infoUrl": "https://hsc.lima-city.de/de/konteste.html",
     "mode": "80m - 10m",
     "bands": null
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-11-01T15:00:00Z",
+    "endTime": "2026-11-01T15:30:00Z",
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-01",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -7418,6 +7858,16 @@
     "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf",
     "mode": "SSB",
     "bands": "80 - 10m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-11-08T15:00:00Z",
+    "endTime": "2026-11-08T15:30:00Z",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -7650,6 +8100,16 @@
     "bands": "80/40m"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-11-15T15:00:00Z",
+    "endTime": "2026-11-15T15:30:00Z",
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-11-16T16:30:00Z",
     "endTime": "2026-11-16T17:29:00Z",
@@ -7748,6 +8208,16 @@
     "infoUrl": "https://www.oevsv.at/export/shared/.content/.galleries/Downloads_Referate/HF-Referat-Downloads/Regeln_Aoec_160m_2020.pdf",
     "mode": "CW",
     "bands": "160m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-11-22T15:00:00Z",
+    "endTime": "2026-11-22T15:30:00Z",
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "DARC HELL-Kurzcontest",
@@ -7886,6 +8356,16 @@
     "startDate": "2026-11-26",
     "endDate": "2026-11-26",
     "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/rautumn.shtml",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-11-29T15:00:00Z",
+    "endTime": "2026-11-29T15:30:00Z",
+    "startDate": "2026-11-29",
+    "endDate": "2026-11-29",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
     "mode": "CW",
     "bands": "80m"
   },
@@ -8040,6 +8520,16 @@
     "bands": "144MHz"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-12-06T15:00:00Z",
+    "endTime": "2026-12-06T15:30:00Z",
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "OK1WC Memorial",
     "startTime": "2026-12-07T16:30:00Z",
     "endTime": "2026-12-07T17:29:00Z",
@@ -8180,6 +8670,16 @@
     "bands": "50MHz"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-12-13T15:00:00Z",
+    "endTime": "2026-12-13T15:30:00Z",
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "RSGB Activity",
     "startTime": "2026-12-08T20:00:00Z",
     "endTime": "2026-12-08T22:30:00Z",
@@ -8238,6 +8738,16 @@
     "infoUrl": "http://okrtty.crk.cz/index.php?page=english",
     "mode": "RTTY",
     "bands": "80 - 10m"
+  },
+  {
+    "name": "OE Aktivitätstag",
+    "startTime": "2026-12-20T07:00:00Z",
+    "endTime": "2026-12-20T13:00:00Z",
+    "startDate": "2026-12-20",
+    "endDate": "2026-12-20",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf",
+    "mode": "alle",
+    "bands": "50Mhz and up"
   },
   {
     "name": "RSGB FT4 Contest",
@@ -8320,14 +8830,14 @@
     "bands": "70MHz"
   },
   {
-    "name": "OE Aktivitätstag",
+    "name": "S5 Activity",
     "startTime": "2026-12-20T07:00:00Z",
-    "endTime": "2026-12-20T13:00:00Z",
+    "endTime": "2026-12-20T12:59:00Z",
     "startDate": "2026-12-20",
     "endDate": "2026-12-20",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf",
-    "mode": "alle",
-    "bands": "50Mhz and up"
+    "infoUrl": "http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf",
+    "mode": "CW/SSB",
+    "bands": "50MHz and up"
   },
   {
     "name": "RSGB Activity",
@@ -8338,16 +8848,6 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=4mukac",
     "mode": "alle",
     "bands": "70MHz"
-  },
-  {
-    "name": "S5 Activity",
-    "startTime": "2026-12-20T07:00:00Z",
-    "endTime": "2026-12-20T12:59:00Z",
-    "startDate": "2026-12-20",
-    "endDate": "2026-12-20",
-    "infoUrl": "http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf",
-    "mode": "CW/SSB",
-    "bands": "50MHz and up"
   },
   {
     "name": "GMA Contest",
@@ -8378,6 +8878,16 @@
     "infoUrl": "https://dl0tud.tu-dresden.de/wordpress/index.php/dur/",
     "mode": "CW/SSB/FM",
     "bands": ">1GHz"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-12-20T15:00:00Z",
+    "endTime": "2026-12-20T15:30:00Z",
+    "startDate": "2026-12-20",
+    "endDate": "2026-12-20",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -8488,6 +8998,16 @@
     "infoUrl": "https://www.darc.de/fileadmin/filemounts/distrikte/a/ortsverbaende/22/FM_SESSION_WINTER_2025-12_rev1.pdf",
     "mode": "FM",
     "bands": "2m, 70cm"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-12-27T15:00:00Z",
+    "endTime": "2026-12-27T15:30:00Z",
+    "startDate": "2026-12-27",
+    "endDate": "2026-12-27",
+    "infoUrl": "https://nedtest.cz/Documents/contest_rules_EN.pdf",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
