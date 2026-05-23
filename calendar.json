@@ -95,7 +95,7 @@
     "endTime": "2026-01-04T15:30:00Z",
     "startDate": "2026-01-04",
     "endDate": "2026-01-04",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -255,7 +255,7 @@
     "endTime": "2026-01-11T15:30:00Z",
     "startDate": "2026-01-11",
     "endDate": "2026-01-11",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -545,7 +545,7 @@
     "endTime": "2026-01-18T15:30:00Z",
     "startDate": "2026-01-18",
     "endDate": "2026-01-18",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -665,7 +665,7 @@
     "endTime": "2026-01-25T15:30:00Z",
     "startDate": "2026-01-25",
     "endDate": "2026-01-25",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -745,7 +745,7 @@
     "endTime": "2026-02-01T15:30:00Z",
     "startDate": "2026-02-01",
     "endDate": "2026-02-01",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -955,7 +955,7 @@
     "endTime": "2026-02-08T15:30:00Z",
     "startDate": "2026-02-08",
     "endDate": "2026-02-08",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -1215,7 +1215,7 @@
     "endTime": "2026-02-15T15:30:00Z",
     "startDate": "2026-02-15",
     "endDate": "2026-02-15",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -1415,7 +1415,7 @@
     "endTime": "2026-02-22T15:30:00Z",
     "startDate": "2026-02-22",
     "endDate": "2026-02-22",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -1535,7 +1535,7 @@
     "endTime": "2026-03-01T15:30:00Z",
     "startDate": "2026-03-01",
     "endDate": "2026-03-01",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -1735,7 +1735,7 @@
     "endTime": "2026-03-08T15:30:00Z",
     "startDate": "2026-03-08",
     "endDate": "2026-03-08",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -2025,7 +2025,7 @@
     "endTime": "2026-03-15T15:30:00Z",
     "startDate": "2026-03-15",
     "endDate": "2026-03-15",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -2215,7 +2215,7 @@
     "endTime": "2026-03-22T15:30:00Z",
     "startDate": "2026-03-22",
     "endDate": "2026-03-22",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -2325,7 +2325,7 @@
     "endTime": "2026-03-29T15:30:00Z",
     "startDate": "2026-03-29",
     "endDate": "2026-03-29",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -2405,7 +2405,7 @@
     "endTime": "2026-04-05T18:00:00Z",
     "startDate": "2026-04-05",
     "endDate": "2026-04-05",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -2645,7 +2645,7 @@
     "endTime": "2026-04-12T18:00:00Z",
     "startDate": "2026-04-12",
     "endDate": "2026-04-12",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -2915,7 +2915,7 @@
     "endTime": "2026-04-19T18:00:00Z",
     "startDate": "2026-04-19",
     "endDate": "2026-04-19",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -3045,7 +3045,7 @@
     "endTime": "2026-04-26T18:00:00Z",
     "startDate": "2026-04-26",
     "endDate": "2026-04-26",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -3195,7 +3195,7 @@
     "endTime": "2026-05-03T18:00:00Z",
     "startDate": "2026-05-03",
     "endDate": "2026-05-03",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -3365,7 +3365,7 @@
     "endTime": "2026-05-10T18:00:00Z",
     "startDate": "2026-05-10",
     "endDate": "2026-05-10",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -3675,7 +3675,7 @@
     "endTime": "2026-05-17T18:00:00Z",
     "startDate": "2026-05-17",
     "endDate": "2026-05-17",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -3775,7 +3775,7 @@
     "endTime": "2026-05-24T18:00:00Z",
     "startDate": "2026-05-24",
     "endDate": "2026-05-24",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -3945,7 +3945,7 @@
     "endTime": "2026-05-31T18:00:00Z",
     "startDate": "2026-05-31",
     "endDate": "2026-05-31",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -4005,7 +4005,7 @@
     "endTime": "2026-06-07T18:00:00Z",
     "startDate": "2026-06-07",
     "endDate": "2026-06-07",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -4235,7 +4235,7 @@
     "endTime": "2026-06-14T18:00:00Z",
     "startDate": "2026-06-14",
     "endDate": "2026-06-14",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -4605,7 +4605,7 @@
     "endTime": "2026-06-21T18:00:00Z",
     "startDate": "2026-06-21",
     "endDate": "2026-06-21",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -4725,7 +4725,7 @@
     "endTime": "2026-06-28T18:00:00Z",
     "startDate": "2026-06-28",
     "endDate": "2026-06-28",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -4825,7 +4825,7 @@
     "endTime": "2026-07-05T18:00:00Z",
     "startDate": "2026-07-05",
     "endDate": "2026-07-05",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -4955,7 +4955,7 @@
     "endTime": "2026-07-12T18:00:00Z",
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -5275,7 +5275,7 @@
     "endTime": "2026-07-19T18:00:00Z",
     "startDate": "2026-07-19",
     "endDate": "2026-07-19",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -5355,7 +5355,7 @@
     "endTime": "2026-07-26T18:00:00Z",
     "startDate": "2026-07-26",
     "endDate": "2026-07-26",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -5515,7 +5515,7 @@
     "endTime": "2026-08-02T18:00:00Z",
     "startDate": "2026-08-02",
     "endDate": "2026-08-02",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -5665,7 +5665,7 @@
     "endTime": "2026-08-09T18:00:00Z",
     "startDate": "2026-08-09",
     "endDate": "2026-08-09",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -5905,7 +5905,7 @@
     "endTime": "2026-08-16T18:00:00Z",
     "startDate": "2026-08-16",
     "endDate": "2026-08-16",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -6055,7 +6055,7 @@
     "endTime": "2026-08-23T18:00:00Z",
     "startDate": "2026-08-23",
     "endDate": "2026-08-23",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -6185,7 +6185,7 @@
     "endTime": "2026-08-30T18:00:00Z",
     "startDate": "2026-08-30",
     "endDate": "2026-08-30",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -6285,7 +6285,7 @@
     "endTime": "2026-09-06T18:00:00Z",
     "startDate": "2026-09-06",
     "endDate": "2026-09-06",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -6475,7 +6475,7 @@
     "endTime": "2026-09-13T18:00:00Z",
     "startDate": "2026-09-13",
     "endDate": "2026-09-13",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -6785,7 +6785,7 @@
     "endTime": "2026-09-20T18:00:00Z",
     "startDate": "2026-09-20",
     "endDate": "2026-09-20",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -6915,7 +6915,7 @@
     "endTime": "2026-09-27T18:00:00Z",
     "startDate": "2026-09-27",
     "endDate": "2026-09-27",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -7075,7 +7075,7 @@
     "endTime": "2026-10-04T18:00:00Z",
     "startDate": "2026-10-04",
     "endDate": "2026-10-04",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -7305,7 +7305,7 @@
     "endTime": "2026-10-11T18:00:00Z",
     "startDate": "2026-10-11",
     "endDate": "2026-10-11",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -7635,7 +7635,7 @@
     "endTime": "2026-10-18T18:00:00Z",
     "startDate": "2026-10-18",
     "endDate": "2026-10-18",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -7725,7 +7725,7 @@
     "endTime": "2026-10-25T15:30:00Z",
     "startDate": "2026-10-25",
     "endDate": "2026-10-25",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -7895,7 +7895,7 @@
     "endTime": "2026-11-01T15:30:00Z",
     "startDate": "2026-11-01",
     "endDate": "2026-11-01",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -8095,7 +8095,7 @@
     "endTime": "2026-11-08T15:30:00Z",
     "startDate": "2026-11-08",
     "endDate": "2026-11-08",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -8345,7 +8345,7 @@
     "endTime": "2026-11-15T15:30:00Z",
     "startDate": "2026-11-15",
     "endDate": "2026-11-15",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -8455,7 +8455,7 @@
     "endTime": "2026-11-22T15:30:00Z",
     "startDate": "2026-11-22",
     "endDate": "2026-11-22",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -8615,7 +8615,7 @@
     "endTime": "2026-11-29T15:30:00Z",
     "startDate": "2026-11-29",
     "endDate": "2026-11-29",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -8780,6 +8780,16 @@
     "bands": "80/40m"
   },
   {
+    "name": "Sunday Race",
+    "startTime": "2026-12-06T15:00:00Z",
+    "endTime": "2026-12-06T15:30:00Z",
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "infoUrl": "https://nedtest.cz/index_en.html",
+    "mode": "CW",
+    "bands": "80m"
+  },
+  {
     "name": "RSGB Activity",
     "startTime": "2026-12-01T20:00:00Z",
     "endTime": "2026-12-01T22:30:00Z",
@@ -8788,16 +8798,6 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=2mukac",
     "mode": "alle",
     "bands": "144MHz"
-  },
-  {
-    "name": "Sunday Race",
-    "startTime": "2026-12-06T15:00:00Z",
-    "endTime": "2026-12-06T15:30:00Z",
-    "startDate": "2026-12-06",
-    "endDate": "2026-12-06",
-    "infoUrl": "https://nedtest.cz/",
-    "mode": "CW",
-    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -8945,7 +8945,7 @@
     "endTime": "2026-12-13T15:30:00Z",
     "startDate": "2026-12-13",
     "endDate": "2026-12-13",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -9175,7 +9175,7 @@
     "endTime": "2026-12-20T15:30:00Z",
     "startDate": "2026-12-20",
     "endDate": "2026-12-20",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
@@ -9305,7 +9305,7 @@
     "endTime": "2026-12-27T15:30:00Z",
     "startDate": "2026-12-27",
     "endDate": "2026-12-27",
-    "infoUrl": "https://nedtest.cz/",
+    "infoUrl": "https://nedtest.cz/index_en.html",
     "mode": "CW",
     "bands": "80m"
   },
