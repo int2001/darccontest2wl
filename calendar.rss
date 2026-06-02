@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 01 Jun 2026 03:14:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 03:15:19 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -2439,7 +2439,7 @@
 </item>
 <item>
 <title>UKSMG Summer Contest</title>
-<link>https://uksmg.org/summer-contest-rules.php</link>
+<link>https://uksmg.org/page/uksmg-summer-es-contest-rules</link>
 <description>1300Z, Jun 6 to 1300Z, Jun 7</description>
 <guid>darc-calendar://uksmg-summer-contest-2026-06-06T13:00:00Z</guid>
 </item>
@@ -2487,7 +2487,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jun 2</description>
 <guid>darc-calendar://ttc-spcwc-2026-06-02T19:30:00Z</guid>
 </item>
@@ -2613,7 +2613,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jun 9</description>
 <guid>darc-calendar://ttc-spcwc-2026-06-09T19:30:00Z</guid>
 </item>
@@ -2715,7 +2715,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jun 16</description>
 <guid>darc-calendar://ttc-spcwc-2026-06-16T19:30:00Z</guid>
 </item>
@@ -2835,7 +2835,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jun 23</description>
 <guid>darc-calendar://ttc-spcwc-2026-06-23T19:30:00Z</guid>
 </item>
@@ -2853,7 +2853,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jun 30</description>
 <guid>darc-calendar://ttc-spcwc-2026-06-30T19:30:00Z</guid>
 </item>
@@ -3009,7 +3009,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jul 7</description>
 <guid>darc-calendar://ttc-spcwc-2026-07-07T19:30:00Z</guid>
 </item>
@@ -3135,7 +3135,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jul 14</description>
 <guid>darc-calendar://ttc-spcwc-2026-07-14T19:30:00Z</guid>
 </item>
@@ -3231,7 +3231,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jul 21</description>
 <guid>darc-calendar://ttc-spcwc-2026-07-21T19:30:00Z</guid>
 </item>
@@ -3279,7 +3279,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jul 28</description>
 <guid>darc-calendar://ttc-spcwc-2026-07-28T19:30:00Z</guid>
 </item>
@@ -3411,7 +3411,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Aug 4</description>
 <guid>darc-calendar://ttc-spcwc-2026-08-04T19:30:00Z</guid>
 </item>
@@ -3519,7 +3519,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Aug 11</description>
 <guid>darc-calendar://ttc-spcwc-2026-08-11T19:30:00Z</guid>
 </item>
@@ -3657,7 +3657,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Aug 18</description>
 <guid>darc-calendar://ttc-spcwc-2026-08-18T19:30:00Z</guid>
 </item>
@@ -3723,7 +3723,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Aug 25</description>
 <guid>darc-calendar://ttc-spcwc-2026-08-25T19:30:00Z</guid>
 </item>
@@ -3819,7 +3819,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Sep 1</description>
 <guid>darc-calendar://ttc-spcwc-2026-09-01T19:30:00Z</guid>
 </item>
@@ -3933,7 +3933,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Sep 8</description>
 <guid>darc-calendar://ttc-spcwc-2026-09-08T19:30:00Z</guid>
 </item>
@@ -4017,7 +4017,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Sep 15</description>
 <guid>darc-calendar://ttc-spcwc-2026-09-15T19:30:00Z</guid>
 </item>
@@ -4149,7 +4149,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Sep 22</description>
 <guid>darc-calendar://ttc-spcwc-2026-09-22T19:30:00Z</guid>
 </item>
@@ -4167,7 +4167,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Sep 29</description>
 <guid>darc-calendar://ttc-spcwc-2026-09-29T19:30:00Z</guid>
 </item>
@@ -4395,7 +4395,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Oct 6</description>
 <guid>darc-calendar://ttc-spcwc-2026-10-06T19:30:00Z</guid>
 </item>
@@ -4539,7 +4539,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Oct 13</description>
 <guid>darc-calendar://ttc-spcwc-2026-10-13T19:30:00Z</guid>
 </item>
@@ -4659,7 +4659,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Oct 20</description>
 <guid>darc-calendar://ttc-spcwc-2026-10-20T19:30:00Z</guid>
 </item>
@@ -4719,7 +4719,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Oct 27</description>
 <guid>darc-calendar://ttc-spcwc-2026-10-27T19:30:00Z</guid>
 </item>
@@ -4821,7 +4821,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Nov 3</description>
 <guid>darc-calendar://ttc-spcwc-2026-11-03T19:30:00Z</guid>
 </item>
@@ -4971,7 +4971,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Nov 10</description>
 <guid>darc-calendar://ttc-spcwc-2026-11-10T19:30:00Z</guid>
 </item>
@@ -5109,7 +5109,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Nov 17</description>
 <guid>darc-calendar://ttc-spcwc-2026-11-17T19:30:00Z</guid>
 </item>
@@ -5181,7 +5181,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Nov 24</description>
 <guid>darc-calendar://ttc-spcwc-2026-11-24T19:30:00Z</guid>
 </item>
@@ -5271,7 +5271,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Dec 1</description>
 <guid>darc-calendar://ttc-spcwc-2026-12-01T19:30:00Z</guid>
 </item>
@@ -5379,7 +5379,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Dec 8</description>
 <guid>darc-calendar://ttc-spcwc-2026-12-08T19:30:00Z</guid>
 </item>
@@ -5481,7 +5481,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Dec 15</description>
 <guid>darc-calendar://ttc-spcwc-2026-12-15T19:30:00Z</guid>
 </item>
@@ -5577,7 +5577,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Dec 22</description>
 <guid>darc-calendar://ttc-spcwc-2026-12-22T19:30:00Z</guid>
 </item>
@@ -5601,7 +5601,7 @@
 </item>
 <item>
 <title>TTC-SPCWC</title>
-<link>https://spcwc.pl/ttc/rules/de</link>
+<link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Dec 29</description>
 <guid>darc-calendar://ttc-spcwc-2026-12-29T19:30:00Z</guid>
 </item>
