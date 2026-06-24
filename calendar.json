@@ -5467,7 +5467,7 @@
     "endDate": "2026-08-01",
     "infoUrl": "https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest003/tnukwcontest007004/",
     "mode": "CW/SSB/FM",
-    "bands": "432/144"
+    "bands": "1296-5760MHz"
   },
   {
     "name": "DARC UKW-Sommer-FD",
@@ -5477,7 +5477,7 @@
     "endDate": "2026-08-02",
     "infoUrl": "https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest003/tnukwcontest007004/",
     "mode": "CW/SSB/FM",
-    "bands": "432/144"
+    "bands": "432/144MHz"
   },
   {
     "name": "Bayerischer Bergtag",
@@ -5487,17 +5487,17 @@
     "endDate": "2026-08-01",
     "infoUrl": "https://www.bergtag.de/ausschr.html",
     "mode": "CW/SSB/FM",
-    "bands": "1296-5760"
+    "bands": "1296-5760MHz"
   },
   {
-    "name": "Bayerischer Bergtag",
+    "name": "Bayerischer Bergtag ]",
     "startTime": "2026-08-02T07:00:00Z",
     "endTime": "2026-08-02T12:30:00Z",
     "startDate": "2026-08-02",
     "endDate": "2026-08-02",
     "infoUrl": "https://www.bergtag.de/ausschr.html",
     "mode": "CW/SSB/FM",
-    "bands": "1296-5760"
+    "bands": "432/144MHz"
   },
   {
     "name": "EUHF Championship",
