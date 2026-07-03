@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 02 Jul 2026 03:10:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 05:53:12 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -3963,7 +3963,7 @@
 </item>
 <item>
 <title>Thüringen-Contest</title>
-<link>https://www.darc.de/der-club/distrikte/x/thueringencontest/</link>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung_THR-Contest_2026.pdf</link>
 <description>0600Z, Sep 19 to 1459Z, Sep 20</description>
 <guid>darc-calendar://th-ringen-contest-2026-09-19T06:00:00Z</guid>
 </item>
