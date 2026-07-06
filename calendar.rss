@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 05 Jul 2026 06:04:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 06:28:44 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -2858,10 +2858,10 @@
 <guid>darc-calendar://ttc-spcwc-2026-06-30T19:30:00Z</guid>
 </item>
 <item>
-<title>FT8 Activity</title>
-<link>https://ft8activity.eu/rules/</link>
-<description>1700Z-2100Z, Jul 1</description>
-<guid>darc-calendar://ft8-activity-2026-07-01T17:00:00Z</guid>
+<title>Canada Day</title>
+<link>https://www.rac.ca/contesting-results/</link>
+<description>0000Z-2359Z, Jul 1</description>
+<guid>darc-calendar://canada-day-2026-07-01T00:00:00Z</guid>
 </item>
 <item>
 <title>CWT Mini Contest</title>
@@ -2876,16 +2876,22 @@
 <guid>darc-calendar://cq-ww-vhf-contest-2026-07-04T12:00:00Z</guid>
 </item>
 <item>
-<title>CWT Mini Contest</title>
-<link>https://cwops.org/cwops-tests/</link>
-<description>1900Z-2000Z, Jul 1</description>
-<guid>darc-calendar://cwt-mini-contest-2026-07-01T19:00:00Z</guid>
+<title>FT8 Activity</title>
+<link>https://ft8activity.eu/rules/</link>
+<description>1700Z-2100Z, Jul 1</description>
+<guid>darc-calendar://ft8-activity-2026-07-01T17:00:00Z</guid>
 </item>
 <item>
 <title>DARC UKW-Wettbewerb</title>
 <link>https://www.darc.de/index.php?id=56188</link>
 <description>1400Z, Jul 4 to 1359Z, Jul 5</description>
 <guid>darc-calendar://darc-ukw-wettbewerb-2026-07-04T14:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Jul 1</description>
+<guid>darc-calendar://cwt-mini-contest-2026-07-01T19:00:00Z</guid>
 </item>
 <item>
 <title>Marconi Memo. HF</title>
@@ -2912,10 +2918,10 @@
 <guid>darc-calendar://ok1wc-memorial-2026-07-06T16:30:00Z</guid>
 </item>
 <item>
-<title>Canada Day</title>
-<link>https://www.rac.ca/contesting-results/</link>
-<description>0000Z-2359Z, Jul 7</description>
-<guid>darc-calendar://canada-day-2026-07-07T00:00:00Z</guid>
+<title>Westfalen Nord</title>
+<link>https://www.darc.de/fileadmin/filemounts/distrikte/n/Vorstand_Referenten/Funkbetrieb/WNA_Ausschreibung_2026.pdf</link>
+<description>1700Z-1900Z, Jul 7</description>
+<guid>darc-calendar://westfalen-nord-2026-07-07T17:00:00Z</guid>
 </item>
 <item>
 <title>FT8 Activity</title>
@@ -2942,10 +2948,10 @@
 <guid>darc-calendar://rsgb-cc-2026-07-06T19:00:00Z</guid>
 </item>
 <item>
-<title>Westfalen Nord</title>
-<link>https://www.darc.de/fileadmin/filemounts/distrikte/n/Vorstand_Referenten/Funkbetrieb/WNA_Ausschreibung_2026.pdf</link>
-<description>1700Z-1900Z, Jul 7</description>
-<guid>darc-calendar://westfalen-nord-2026-07-07T17:00:00Z</guid>
+<title>GMA Contest</title>
+<link>https://www.cqgma.org/doc/GMAC_Rules.pdf</link>
+<description>1800Z-2200Z, Jul 7</description>
+<guid>darc-calendar://gma-contest-2026-07-07T18:00:00Z</guid>
 </item>
 <item>
 <title>CWT Mini Contest</title>
@@ -2961,15 +2967,15 @@
 </item>
 <item>
 <title>Kraichgauer FM Session</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/FM_SESSION_SOMMER_2025.pdf</link>
+<link>https://www.darc.de/fileadmin/filemounts/distrikte/a/ortsverbaende/22/FM_SESSION_SOMMER_2026.pdf</link>
 <description>1400Z-1600Z, Jul 12</description>
 <guid>darc-calendar://kraichgauer-fm-session-2026-07-12T14:00:00Z</guid>
 </item>
 <item>
-<title>GMA Contest</title>
-<link>https://www.cqgma.org/doc/GMAC_Rules.pdf</link>
-<description>1800Z-2200Z, Jul 7</description>
-<guid>darc-calendar://gma-contest-2026-07-07T18:00:00Z</guid>
+<title>SP Activity</title>
+<link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
+<description>1700Z-2100Z, Jul 7</description>
+<guid>darc-calendar://sp-activity-2026-07-07T17:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -2984,22 +2990,16 @@
 <guid>darc-calendar://sunday-race-2026-07-12T17:30:00Z</guid>
 </item>
 <item>
-<title>SP Activity</title>
-<link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
+<title>NRAU Activity</title>
+<link>https://vushf.dk/contest/rules/nac-open/</link>
 <description>1700Z-2100Z, Jul 7</description>
-<guid>darc-calendar://sp-activity-2026-07-07T17:00:00Z</guid>
+<guid>darc-calendar://nrau-activity-2026-07-07T17:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=6mukac</link>
 <description>1900Z-2130Z, Jul 9</description>
 <guid>darc-calendar://rsgb-activity-2026-07-09T19:00:00Z</guid>
-</item>
-<item>
-<title>NRAU Activity</title>
-<link>https://vushf.dk/contest/rules/nac-open/</link>
-<description>1700Z-2100Z, Jul 7</description>
-<guid>darc-calendar://nrau-activity-2026-07-07T17:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -3282,6 +3282,12 @@
 <link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Jul 28</description>
 <guid>darc-calendar://ttc-spcwc-2026-07-28T19:30:00Z</guid>
+</item>
+<item>
+<title>Alpe Adria Contest</title>
+<link>https://www.oevsv.at/funkbetrieb/contests-wettbewerbe/contestalpeadria/</link>
+<description>0600Z-1359Z, Aug 2</description>
+<guid>darc-calendar://alpe-adria-contest-2026-08-02T06:00:00Z</guid>
 </item>
 <item>
 <title>DARC UKW-Sommer-FD</title>
