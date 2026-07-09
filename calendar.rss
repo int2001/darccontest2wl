@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 08 Jul 2026 05:21:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 06:04:26 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -5636,6 +5636,486 @@
 <guid>darc-calendar://cwt-mini-contest-2026-12-30T19:00:00Z</guid>
 </item>
 <item>
+<title>SARTG HNY RTTY</title>
+<link>https://www.sartg.com/contest/nyrules.htm</link>
+<description>0800Z-1100Z, Jan 1</description>
+<guid>darc-calendar://sartg-hny-rtty-2027-01-01T08:00:00Z</guid>
+</item>
+<item>
+<title>Schwaben-Contest</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Schwabenkontestausschreibung-2026.pdf</link>
+<description>0700Z-1600Z, Jan 2</description>
+<guid>darc-calendar://schwaben-contest-2027-01-02T07:00:00Z</guid>
+</item>
+<item>
+<title>EU CW 160m</title>
+<link>https://www.uft.net/activites-et-concours/concours-eucw-uft-on5me/</link>
+<description>0400Z-0700Z, Jan 3</description>
+<guid>darc-calendar://eu-cw-160m-2027-01-03T04:00:00Z</guid>
+</item>
+<item>
+<title>AGCW HNY Contest</title>
+<link>https://www.agcw.de/contest/hnyc/</link>
+<description>0900Z-1200Z, Jan 1</description>
+<guid>darc-calendar://agcw-hny-contest-2027-01-01T09:00:00Z</guid>
+</item>
+<item>
+<title>MCAL QSO Party</title>
+<link>https://www.marconiclub.it/contest1/qso-party-day/rules-qso-party-day</link>
+<description>0700Z-2100Z, Jan 2</description>
+<guid>darc-calendar://mcal-qso-party-2027-01-02T07:00:00Z</guid>
+</item>
+<item>
+<title>AGCW VHF/UHF</title>
+<link>https://www.agcw.de/contest/vhf-uhf/</link>
+<description>1400Z-1800Z, Jan 1</description>
+<guid>darc-calendar://agcw-vhf-uhf-2027-01-01T14:00:00Z</guid>
+</item>
+<item>
+<title>WW PMC Contest</title>
+<link>https://www.s59dcd.si/index.php/sl/ww-pmc/ww-pmc-contest-rules</link>
+<description>1200Z, Jan 2 to 1200Z, Jan 3</description>
+<guid>darc-calendar://ww-pmc-contest-2027-01-02T12:00:00Z</guid>
+</item>
+<item>
+<title>RSGB AFS</title>
+<link>https://www.rsgbcc.org/hf/rules/2026/rafs.shtml</link>
+<description>1300Z-1700Z, Jan 2</description>
+<guid>darc-calendar://rsgb-afs-2027-01-02T13:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/index_en.html</link>
+<description>1500Z-1530Z, Jan 3</description>
+<guid>darc-calendar://sunday-race-2027-01-03T15:00:00Z</guid>
+</item>
+<item>
+<title>ARRL RTTY Roundup</title>
+<link>https://www.arrl.org/rtty-roundup</link>
+<description>1800Z, Jan 2 to 2359Z, Jan 3</description>
+<guid>darc-calendar://arrl-rtty-roundup-2027-01-02T18:00:00Z</guid>
+</item>
+<item>
+<title>EU CW 160m</title>
+<link>https://www.uft.net/activites-et-concours/concours-eucw-uft-on5me/</link>
+<description>2000Z-2300Z, Jan 2</description>
+<guid>darc-calendar://eu-cw-160m-2027-01-02T20:00:00Z</guid>
+</item>
+<item>
+<title>YB DX Contest</title>
+<link>https://ybdxcontest.com/</link>
+<description>0000Z-2359Z, Jan 9</description>
+<guid>darc-calendar://yb-dx-contest-2027-01-09T00:00:00Z</guid>
+</item>
+<item>
+<title>DARC 10m Contest</title>
+<link>http://www.darc.de/der-club/referate/conteste/darc-10m-contest/regeln/</link>
+<description>0900Z-1059Z, Jan 10</description>
+<guid>darc-calendar://darc-10m-contest-2027-01-10T09:00:00Z</guid>
+</item>
+<item>
+<title>OK1WC Memorial</title>
+<link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
+<description>1630Z-1729Z, Jan 4</description>
+<guid>darc-calendar://ok1wc-memorial-2027-01-04T16:30:00Z</guid>
+</item>
+<item>
+<title>Westfalen Nord</title>
+<link>https://www.darc.de/fileadmin/filemounts/distrikte/n/Vorstand_Referenten/Funkbetrieb/WNA_Ausschreibung_2026.pdf</link>
+<description>1800Z-2000Z, Jan 5</description>
+<guid>darc-calendar://westfalen-nord-2027-01-05T18:00:00Z</guid>
+</item>
+<item>
+<title>FT8 Activity</title>
+<link>https://ft8activity.eu/rules/</link>
+<description>1700Z-2100Z, Jan 6</description>
+<guid>darc-calendar://ft8-activity-2027-01-06T17:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>0700Z-0800Z, Jan 7</description>
+<guid>darc-calendar://cwt-mini-contest-2027-01-07T07:00:00Z</guid>
+</item>
+<item>
+<title>Old-New Year</title>
+<link>https://www.contest.ru/old-new-year-contest/</link>
+<description>0500Z-0859Z, Jan 9</description>
+<guid>darc-calendar://old-new-year-2027-01-09T05:00:00Z</guid>
+</item>
+<item>
+<title>RSGB AFS</title>
+<link>https://www.rsgbcc.org/hf/rules/2026/rafs.shtml</link>
+<description>1300Z-1700Z, Jan 10</description>
+<guid>darc-calendar://rsgb-afs-2027-01-10T13:00:00Z</guid>
+</item>
+<item>
+<title>GMA Contest</title>
+<link>https://www.cqgma.org/doc/GMAC_Rules.pdf</link>
+<description>1800Z-2200Z, Jan 5</description>
+<guid>darc-calendar://gma-contest-2027-01-05T18:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Jan 6</description>
+<guid>darc-calendar://cwt-mini-contest-2027-01-06T19:00:00Z</guid>
+</item>
+<item>
+<title>Distrikt-R Contest</title>
+<link>https://www.darc.de/der-club/distrikte/r/contestauswertung/contestausschreibung/</link>
+<description>0800Z-1300Z, Jan 9</description>
+<guid>darc-calendar://distrikt-r-contest-2027-01-09T08:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/index_en.html</link>
+<description>1500Z-1530Z, Jan 10</description>
+<guid>darc-calendar://sunday-race-2027-01-10T15:00:00Z</guid>
+</item>
+<item>
+<title>NRAU Activity</title>
+<link>https://vushf.dk/contest/rules/nac-open/</link>
+<description>1800Z-2200Z, Jan 5</description>
+<guid>darc-calendar://nrau-activity-2027-01-05T18:00:00Z</guid>
+</item>
+<item>
+<title>UKEI 80m Contest</title>
+<link>https://www.ukeicc.com/80m-rules.php</link>
+<description>2000Z-2100Z, Jan 6</description>
+<guid>darc-calendar://ukei-80m-contest-2027-01-06T20:00:00Z</guid>
+</item>
+<item>
+<title>UBA PSK63 Contest</title>
+<link>https://www.uba.be/en/hf/contest-rules/uba-psk63-prefix-contest</link>
+<description>1200Z, Jan 9 to 1200Z, Jan 10</description>
+<guid>darc-calendar://uba-psk63-contest-2027-01-09T12:00:00Z</guid>
+</item>
+<item>
+<title>SP Activity</title>
+<link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
+<description>1800Z-2200Z, Jan 5</description>
+<guid>darc-calendar://sp-activity-2027-01-05T18:00:00Z</guid>
+</item>
+<item>
+<title>TTC-SPCWC</title>
+<link>https://spcwc.pl/ttc/rules/en</link>
+<description>1930Z-2029Z, Jan 5</description>
+<guid>darc-calendar://ttc-spcwc-2027-01-05T19:30:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=2mukac</link>
+<description>2000Z-2230Z, Jan 5</description>
+<guid>darc-calendar://rsgb-activity-2027-01-05T20:00:00Z</guid>
+</item>
+<item>
+<title>OK1WC Memorial</title>
+<link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
+<description>1630Z-1729Z, Jan 11</description>
+<guid>darc-calendar://ok1wc-memorial-2027-01-11T16:30:00Z</guid>
+</item>
+<item>
+<title>Westfalen Süd</title>
+<link>https://www.darc.de/fileadmin/filemounts/distrikte/o/Westfalen_S%C3%BCd_Aktivit%C3%A4t/wsa_ausschreibung_2025.pdf</link>
+<description>1800Z-2000Z, Jan 12</description>
+<guid>darc-calendar://westfalen-s-d-2027-01-12T18:00:00Z</guid>
+</item>
+<item>
+<title>FT8 Activity</title>
+<link>https://ft8activity.eu/rules/</link>
+<description>1700Z-2100Z, Jan 13</description>
+<guid>darc-calendar://ft8-activity-2027-01-13T17:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>0700Z-0800Z, Jan 14</description>
+<guid>darc-calendar://cwt-mini-contest-2027-01-14T07:00:00Z</guid>
+</item>
+<item>
+<title>HA DX Contest</title>
+<link>https://www.ha-dx.com/de/ausschreibung</link>
+<description>1200Z, Jan 16 to 1200Z, Jan 17</description>
+<guid>darc-calendar://ha-dx-contest-2027-01-16T12:00:00Z</guid>
+</item>
+<item>
+<title>DARC RTTY-Kurzcontest</title>
+<link>https://www.darc.de/der-club/referate/conteste/rtty-kurz/rtty-rules/</link>
+<description>1800Z-1929Z, Jan 12</description>
+<guid>darc-calendar://darc-rtty-kurzcontest-2027-01-12T18:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Jan 13</description>
+<guid>darc-calendar://cwt-mini-contest-2027-01-13T19:00:00Z</guid>
+</item>
+<item>
+<title>NRAU Activity</title>
+<link>https://vushf.dk/contest/rules/nac-open/</link>
+<description>1800Z-2200Z, Jan 14</description>
+<guid>darc-calendar://nrau-activity-2027-01-14T18:00:00Z</guid>
+</item>
+<item>
+<title>Pro Digi Contest</title>
+<link>https://proradiocontestclub.com/PDC%20Rules.html</link>
+<description>1200Z, Jan 16 to 1200Z, Jan 17</description>
+<guid>darc-calendar://pro-digi-contest-2027-01-16T12:00:00Z</guid>
+</item>
+<item>
+<title>NRAU Activity</title>
+<link>https://vushf.dk/contest/rules/nac-open/</link>
+<description>1800Z-2200Z, Jan 12</description>
+<guid>darc-calendar://nrau-activity-2027-01-12T18:00:00Z</guid>
+</item>
+<item>
+<title>SP Activity</title>
+<link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
+<description>1800Z-2200Z, Jan 14</description>
+<guid>darc-calendar://sp-activity-2027-01-14T18:00:00Z</guid>
+</item>
+<item>
+<title>RSGB AFS</title>
+<link>https://www.rsgbcc.org/hf/rules/2026/rafs.shtml</link>
+<description>1300Z-1700Z, Jan 16</description>
+<guid>darc-calendar://rsgb-afs-2027-01-16T13:00:00Z</guid>
+</item>
+<item>
+<title>OE Aktivitätstag</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf</link>
+<description>0700Z-1300Z, Jan 17</description>
+<guid>darc-calendar://oe-aktivit-tstag-2027-01-17T07:00:00Z</guid>
+</item>
+<item>
+<title>SP Activity</title>
+<link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
+<description>1800Z-2200Z, Jan 12</description>
+<guid>darc-calendar://sp-activity-2027-01-12T18:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=6mukac</link>
+<description>2000Z-2230Z, Jan 14</description>
+<guid>darc-calendar://rsgb-activity-2027-01-14T20:00:00Z</guid>
+</item>
+<item>
+<title>S5 Activity</title>
+<link>http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf</link>
+<description>0700Z-1259Z, Jan 17</description>
+<guid>darc-calendar://s5-activity-2027-01-17T07:00:00Z</guid>
+</item>
+<item>
+<title>TTC-SPCWC</title>
+<link>https://spcwc.pl/ttc/rules/en</link>
+<description>1930Z-2029Z, Jan 12</description>
+<guid>darc-calendar://ttc-spcwc-2027-01-12T19:30:00Z</guid>
+</item>
+<item>
+<title>9A Activity Contest</title>
+<link>https://hrvhf.net/index.php/9a-activity-contest</link>
+<description>0700Z-1200Z, Jan 17</description>
+<guid>darc-calendar://9a-activity-contest-2027-01-17T07:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=70cmsukac</link>
+<description>2000Z-2230Z, Jan 12</description>
+<guid>darc-calendar://rsgb-activity-2027-01-12T20:00:00Z</guid>
+</item>
+<item>
+<title>GMA Contest</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/GMAC_Rules.pdf</link>
+<description>0800Z-1200Z, Jan 17</description>
+<guid>darc-calendar://gma-contest-2027-01-17T08:00:00Z</guid>
+</item>
+<item>
+<title>OK Activity Contest</title>
+<link>http://www.ok1kpa.com/pa/rules.pdf</link>
+<description>0800Z-1100Z, Jan 17</description>
+<guid>darc-calendar://ok-activity-contest-2027-01-17T08:00:00Z</guid>
+</item>
+<item>
+<title>DUR-GHz-Aktivität</title>
+<link>https://dl0tud.tu-dresden.de/wordpress/index.php/dur/</link>
+<description>0800Z-1200Z, Jan 17</description>
+<guid>darc-calendar://dur-ghz-aktivit-t-2027-01-17T08:00:00Z</guid>
+</item>
+<item>
+<title>VFDB DLPX Contest</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/VFDB_DLPX-Contest.pdf</link>
+<description>1400Z-1559Z, Jan 17</description>
+<guid>darc-calendar://vfdb-dlpx-contest-2027-01-17T14:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/index_en.html</link>
+<description>1500Z-1530Z, Jan 17</description>
+<guid>darc-calendar://sunday-race-2027-01-17T15:00:00Z</guid>
+</item>
+<item>
+<title>OK1WC Memorial</title>
+<link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
+<description>1630Z-1729Z, Jan 18</description>
+<guid>darc-calendar://ok1wc-memorial-2027-01-18T16:30:00Z</guid>
+</item>
+<item>
+<title>NRAU Activity</title>
+<link>https://vushf.dk/contest/rules/nac-open/</link>
+<description>1800Z-2200Z, Jan 19</description>
+<guid>darc-calendar://nrau-activity-2027-01-19T18:00:00Z</guid>
+</item>
+<item>
+<title>FT8 Activity</title>
+<link>https://ft8activity.eu/rules/</link>
+<description>1700Z-2100Z, Jan 20</description>
+<guid>darc-calendar://ft8-activity-2027-01-20T17:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>0700Z-0800Z, Jan 21</description>
+<guid>darc-calendar://cwt-mini-contest-2027-01-21T07:00:00Z</guid>
+</item>
+<item>
+<title>BARTG Sprint</title>
+<link>https://bartg.org.uk/bartg-sprint-contest/</link>
+<description>1200Z, Jan 23 to 1200Z, Jan 24</description>
+<guid>darc-calendar://bartg-sprint-2027-01-23T12:00:00Z</guid>
+</item>
+<item>
+<title>RSGB FT4 Contest</title>
+<link>https://www.rsgbcc.org/hf/rules/2026/r80m_ft4.shtml</link>
+<description>2000Z-2200Z, Jan 18</description>
+<guid>darc-calendar://rsgb-ft4-contest-2027-01-18T20:00:00Z</guid>
+</item>
+<item>
+<title>SP Activity</title>
+<link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
+<description>1800Z-2200Z, Jan 19</description>
+<guid>darc-calendar://sp-activity-2027-01-19T18:00:00Z</guid>
+</item>
+<item>
+<title>Ruhr-Aktivität</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ruhrgebietsaktivit%C3%A4t_UKW.pdf</link>
+<description>1800Z-2000Z, Jan 20</description>
+<guid>darc-calendar://ruhr-aktivit-t-2027-01-20T18:00:00Z</guid>
+</item>
+<item>
+<title>NRAU Activity</title>
+<link>https://vushf.dk/contest/rules/nac-open/</link>
+<description>1800Z-2200Z, Jan 21</description>
+<guid>darc-calendar://nrau-activity-2027-01-21T18:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/index_en.html</link>
+<description>1500Z-1530Z, Jan 24</description>
+<guid>darc-calendar://sunday-race-2027-01-24T15:00:00Z</guid>
+</item>
+<item>
+<title>TTC-SPCWC</title>
+<link>https://spcwc.pl/ttc/rules/en</link>
+<description>1930Z-2029Z, Jan 19</description>
+<guid>darc-calendar://ttc-spcwc-2027-01-19T19:30:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Jan 20</description>
+<guid>darc-calendar://cwt-mini-contest-2027-01-20T19:00:00Z</guid>
+</item>
+<item>
+<title>SP Activity</title>
+<link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
+<description>1800Z-2200Z, Jan 21</description>
+<guid>darc-calendar://sp-activity-2027-01-21T18:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
+<description>2000Z-2230Z, Jan 19</description>
+<guid>darc-calendar://rsgb-activity-2027-01-19T20:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=4mukac</link>
+<description>2000Z-2230Z, Jan 21</description>
+<guid>darc-calendar://rsgb-activity-2027-01-21T20:00:00Z</guid>
+</item>
+<item>
+<title>OK1WC Memorial</title>
+<link>https://memorial-ok1wc.cz/index.php?page=rules2l</link>
+<description>1630Z-1729Z, Jan 25</description>
+<guid>darc-calendar://ok1wc-memorial-2027-01-25T16:30:00Z</guid>
+</item>
+<item>
+<title>NRAU Activity</title>
+<link>https://vushf.dk/contest/rules/nac-open/</link>
+<description>1800Z-2200Z, Jan 26</description>
+<guid>darc-calendar://nrau-activity-2027-01-26T18:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>1900Z-2000Z, Jan 27</description>
+<guid>darc-calendar://cwt-mini-contest-2027-01-27T19:00:00Z</guid>
+</item>
+<item>
+<title>CWT Mini Contest</title>
+<link>https://cwops.org/cwops-tests/</link>
+<description>0700Z-0800Z, Jan 28</description>
+<guid>darc-calendar://cwt-mini-contest-2027-01-28T07:00:00Z</guid>
+</item>
+<item>
+<title>CQ WW 160m Contest CW</title>
+<link>https://cq160.com/rules/index.htm</link>
+<description>2200Z, Jan 29 to 2200Z, Jan 31</description>
+<guid>darc-calendar://cq-ww-160m-contest-cw-2027-01-29T22:00:00Z</guid>
+</item>
+<item>
+<title>SP Activity</title>
+<link>https://spac.pk-ukf.pl/docs/SPAC_rules_EN_2018.pdf</link>
+<description>1800Z-2200Z, Jan 26</description>
+<guid>darc-calendar://sp-activity-2027-01-26T18:00:00Z</guid>
+</item>
+<item>
+<title>UKEI 80m Contest</title>
+<link>https://www.ukeicc.com/80m-rules.php</link>
+<description>2000Z-2100Z, Jan 27</description>
+<guid>darc-calendar://ukei-80m-contest-2027-01-27T20:00:00Z</guid>
+</item>
+<item>
+<title>REF Contest</title>
+<link>https://concours.r-e-f.org/contest/a-propos/</link>
+<description>0600Z, Jan 30 to 1800Z, Jan 31</description>
+<guid>darc-calendar://ref-contest-2027-01-30T06:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=shfukac</link>
+<description>1930Z-2230Z, Jan 26</description>
+<guid>darc-calendar://rsgb-activity-2027-01-26T19:30:00Z</guid>
+</item>
+<item>
+<title>UBA DX Contest</title>
+<link>https://www.uba.be/en/hf/contest-rules/uba-dx-contest</link>
+<description>1300Z, Jan 30 to 1300Z, Jan 31</description>
+<guid>darc-calendar://uba-dx-contest-2027-01-30T13:00:00Z</guid>
+</item>
+<item>
+<title>TTC-SPCWC</title>
+<link>https://spcwc.pl/ttc/rules/en</link>
+<description>1930Z-2029Z, Jan 26</description>
+<guid>darc-calendar://ttc-spcwc-2027-01-26T19:30:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/index_en.html</link>
+<description>1500Z-1530Z, Jan 31</description>
+<guid>darc-calendar://sunday-race-2027-01-31T15:00:00Z</guid>
+</item>
+<item>
 <title>Aktivitätswoche Rheinland-Pfalz 2025</title>
 <link>https://www.darc.de/fileadmin/filemounts/distrikte/k/raw2026/raw-ausschreibung-2026.pdf</link>
 <description>0000Z, Jan 1 to 2400Z, Jan 7</description>
@@ -5658,6 +6138,12 @@
 <link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung-IKE-Aktivit%C3%A4tswoche_2025.pdf</link>
 <description>0000Z-2359Z, Oct 11</description>
 <guid>darc-calendar://ike-akti-woche-2026-10-11T00:00:00Z</guid>
+</item>
+<item>
+<title>Aktivitätswoche Rheinland-Pfalz 2025</title>
+<link>https://www.darc.de/fileadmin/filemounts/distrikte/k/raw2026/raw-ausschreibung-2026.pdf</link>
+<description>0000Z, Jan 1 to 2400Z, Jan 7</description>
+<guid>darc-calendar://aktivit-tswoche-rheinland-pfalz-2025-2027-01-01T00:00:00Z</guid>
 </item>
 </channel>
 </rss>
