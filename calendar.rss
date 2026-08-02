@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 01 Aug 2026 05:26:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 05:27:04 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -3759,7 +3759,7 @@
 </item>
 <item>
 <title>JARL All Asian DX Contest</title>
-<link>https://www.jarl.org/English/4_Library/A-4-3_Contests/index_eng.html</link>
+<link>https://www.jarl.org/English/4_Library/A-4-3_Contests/aadx_eng.html</link>
 <description>0000Z, Sep 5 to 2359Z, Sep 6</description>
 <guid>darc-calendar://jarl-all-asian-dx-contest-2026-09-05T00:00:00Z</guid>
 </item>
