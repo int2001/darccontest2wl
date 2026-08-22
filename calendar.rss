@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 21 Aug 2026 03:01:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 02:52:46 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -4227,7 +4227,7 @@
 </item>
 <item>
 <title>IARU-R1 UHF/µW Contest</title>
-<link>https://www.darc.de/der-club/referate/conteste/ukw-conteste-start/tnukwcontest0/tnukwcontest005/</link>
+<link>https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest005/tnukwcontest007006/</link>
 <description>1400Z, Oct 3 to 1359Z, Oct 4</description>
 <guid>darc-calendar://iaru-r1-uhf-w-contest-2026-10-03T14:00:00Z</guid>
 </item>
@@ -4248,12 +4248,6 @@
 <link>https://www.darc.de/fileadmin/filemounts/distrikte/k/raa2026/raa-ausschreibung-2026.pdf</link>
 <description>1600Z-1800Z, Oct 3</description>
 <guid>darc-calendar://rheinland-pfalz-aktivit-tsabend-2026-10-03T16:00:00Z</guid>
-</item>
-<item>
-<title>Nordsee-Aktivitätstag</title>
-<link>https://www.darc.de/der-club/distrikte/i/conteste/#c9384</link>
-<description>0800Z-1400Z, Oct 3</description>
-<guid>darc-calendar://nordsee-aktivit-tstag-2026-10-03T08:00:00Z</guid>
 </item>
 <item>
 <title>Sunday Race</title>
@@ -4340,10 +4334,10 @@
 <guid>darc-calendar://sp-activity-2026-10-08T17:00:00Z</guid>
 </item>
 <item>
-<title>Scandinavian Activity</title>
-<link>https://www.sactest.net/blog/scandinavian-activity-contest-2025-rules/</link>
-<description>1200Z, Oct 10 to 1159Z, Oct 11</description>
-<guid>darc-calendar://scandinavian-activity-2026-10-10T12:00:00Z</guid>
+<title>VFDB Contest</title>
+<link>https://www.vfdb.org/files/referate/funkbetrieb/ausschreibungen/VFDB_Contest.pdf</link>
+<description>0600Z-1059Z, Oct 10</description>
+<guid>darc-calendar://vfdb-contest-2026-10-10T06:00:00Z</guid>
 </item>
 <item>
 <title>NRAU Activity</title>
@@ -4364,10 +4358,16 @@
 <guid>darc-calendar://dig-geburtstag-2026-10-08T18:30:00Z</guid>
 </item>
 <item>
-<title>VFDB Contest</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/01_VFDB_Contest-2025.pdf</link>
-<description>0600Z-1059Z, Oct 10</description>
-<guid>darc-calendar://vfdb-contest-2026-10-10T06:00:00Z</guid>
+<title>Nordsee-Aktivitätstag</title>
+<link>https://www.darc.de/der-club/distrikte/i/conteste/#c9384</link>
+<description>0800Z-1400Z, Oct 10</description>
+<guid>darc-calendar://nordsee-aktivit-tstag-2026-10-10T08:00:00Z</guid>
+</item>
+<item>
+<title>ON Contest</title>
+<link>https://www.uba.be/en/hf/contest-rules/on-contest</link>
+<description>0600Z-1000Z, Oct 11</description>
+<guid>darc-calendar://on-contest-2026-10-11T06:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -4382,10 +4382,10 @@
 <guid>darc-calendar://rsgb-activity-2026-10-08T19:00:00Z</guid>
 </item>
 <item>
-<title>ON Contest</title>
-<link>https://www.uba.be/en/hf/contest-rules/on-contest</link>
-<description>0600Z-1000Z, Oct 11</description>
-<guid>darc-calendar://on-contest-2026-10-11T06:00:00Z</guid>
+<title>Scandinavian Activity</title>
+<link>https://www.sactest.net/blog/scandinavian-activity-contest-2025-rules/</link>
+<description>1200Z, Oct 10 to 1159Z, Oct 11</description>
+<guid>darc-calendar://scandinavian-activity-2026-10-10T12:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
@@ -4437,7 +4437,7 @@
 </item>
 <item>
 <title>JARTS WW RTTY CONTEST</title>
-<link>https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/jarts/</link>
+<link>http://jarts.jp/rules/2024_rule_en.htm</link>
 <description>0000Z, Oct 17 to 2400Z, Oct 18</description>
 <guid>darc-calendar://jarts-ww-rtty-contest-2026-10-17T00:00:00Z</guid>
 </item>
@@ -4506,12 +4506,6 @@
 <link>https://www.darc.de/der-club/referate/conteste/rtty-kurz/rtty-rules/</link>
 <description>1800Z-1929Z, Oct 13</description>
 <guid>darc-calendar://darc-rtty-kurzcontest-2026-10-13T18:00:00Z</guid>
-</item>
-<item>
-<title>AGCW Bug</title>
-<link>https://www.agcw.de/contest/sta/</link>
-<description>1900Z-2030Z, Oct 14</description>
-<guid>darc-calendar://agcw-bug-2026-10-14T19:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -4668,6 +4662,12 @@
 <link>https://spcwc.pl/ttc/rules/en</link>
 <description>1930Z-2029Z, Oct 20</description>
 <guid>darc-calendar://ttc-spcwc-2026-10-20T19:30:00Z</guid>
+</item>
+<item>
+<title>AGCW Bug</title>
+<link>https://www.agcw.de/contest/sta/</link>
+<description>1900Z-2030Z, Oct 21</description>
+<guid>darc-calendar://agcw-bug-2026-10-21T19:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -6135,8 +6135,8 @@
 </item>
 <item>
 <title>IKE Akti-Woche</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung-IKE-Aktivit%C3%A4tswoche_2025.pdf</link>
-<description>0000Z-2359Z, Oct 11</description>
+<link>https://www.agcw.de/funkaktivitaeten/ike-aktivitaetswoche/</link>
+<description>0000Z, Oct 11 to 2359Z, Oct 17</description>
 <guid>darc-calendar://ike-akti-woche-2026-10-11T00:00:00Z</guid>
 </item>
 <item>

@@ -7035,7 +7035,7 @@
     "endTime": "2026-10-04T13:59:00Z",
     "startDate": "2026-10-03",
     "endDate": "2026-10-04",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/ukw-conteste-start/tnukwcontest0/tnukwcontest005/",
+    "infoUrl": "https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest005/tnukwcontest007006/",
     "mode": "432 MHz und höher",
     "bands": "CW/SSB/FM"
   },
@@ -7068,16 +7068,6 @@
     "infoUrl": "https://www.darc.de/fileadmin/filemounts/distrikte/k/raa2026/raa-ausschreibung-2026.pdf",
     "mode": "Alle",
     "bands": "80m"
-  },
-  {
-    "name": "Nordsee-Aktivitätstag",
-    "startTime": "2026-10-03T08:00:00Z",
-    "endTime": "2026-10-03T14:00:00Z",
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-03",
-    "infoUrl": "https://www.darc.de/der-club/distrikte/i/conteste/#c9384",
-    "mode": "CW/SSB",
-    "bands": "80/10/2/70"
   },
   {
     "name": "Sunday Race",
@@ -7220,14 +7210,14 @@
     "bands": "50MHz"
   },
   {
-    "name": "Scandinavian Activity",
-    "startTime": "2026-10-10T12:00:00Z",
-    "endTime": "2026-10-11T11:59:00Z",
+    "name": "VFDB Contest",
+    "startTime": "2026-10-10T06:00:00Z",
+    "endTime": "2026-10-10T10:59:00Z",
     "startDate": "2026-10-10",
-    "endDate": "2026-10-11",
-    "infoUrl": "https://www.sactest.net/blog/scandinavian-activity-contest-2025-rules/",
-    "mode": "SSB",
-    "bands": "80 - 10m"
+    "endDate": "2026-10-10",
+    "infoUrl": "https://www.vfdb.org/files/referate/funkbetrieb/ausschreibungen/VFDB_Contest.pdf",
+    "mode": "CW",
+    "bands": "80m/40m"
   },
   {
     "name": "NRAU Activity",
@@ -7260,14 +7250,24 @@
     "bands": "80m"
   },
   {
-    "name": "VFDB Contest",
-    "startTime": "2026-10-10T06:00:00Z",
-    "endTime": "2026-10-10T10:59:00Z",
+    "name": "Nordsee-Aktivitätstag",
+    "startTime": "2026-10-10T08:00:00Z",
+    "endTime": "2026-10-10T14:00:00Z",
     "startDate": "2026-10-10",
     "endDate": "2026-10-10",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/01_VFDB_Contest-2025.pdf",
+    "infoUrl": "https://www.darc.de/der-club/distrikte/i/conteste/#c9384",
+    "mode": "CW/SSB",
+    "bands": "80/10/2/70"
+  },
+  {
+    "name": "ON Contest",
+    "startTime": "2026-10-11T06:00:00Z",
+    "endTime": "2026-10-11T10:00:00Z",
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "infoUrl": "https://www.uba.be/en/hf/contest-rules/on-contest",
     "mode": "CW",
-    "bands": "80m/40m"
+    "bands": "80/40m"
   },
   {
     "name": "SP Activity",
@@ -7290,14 +7290,14 @@
     "bands": "50MHz"
   },
   {
-    "name": "ON Contest",
-    "startTime": "2026-10-11T06:00:00Z",
-    "endTime": "2026-10-11T10:00:00Z",
-    "startDate": "2026-10-11",
+    "name": "Scandinavian Activity",
+    "startTime": "2026-10-10T12:00:00Z",
+    "endTime": "2026-10-11T11:59:00Z",
+    "startDate": "2026-10-10",
     "endDate": "2026-10-11",
-    "infoUrl": "https://www.uba.be/en/hf/contest-rules/on-contest",
-    "mode": "CW",
-    "bands": "80/40m"
+    "infoUrl": "https://www.sactest.net/blog/scandinavian-activity-contest-2025-rules/",
+    "mode": "SSB",
+    "bands": "80 - 10m"
   },
   {
     "name": "RSGB Activity",
@@ -7385,7 +7385,7 @@
     "endTime": "2026-10-18T24:00:00Z",
     "startDate": "2026-10-17",
     "endDate": "2026-10-18",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/jarts/",
+    "infoUrl": "http://jarts.jp/rules/2024_rule_en.htm",
     "mode": "RTTY",
     "bands": "80 - 10m"
   },
@@ -7497,16 +7497,6 @@
     "endDate": "2026-10-13",
     "infoUrl": "https://www.darc.de/der-club/referate/conteste/rtty-kurz/rtty-rules/",
     "mode": "RTTY",
-    "bands": "80/40m"
-  },
-  {
-    "name": "AGCW Bug",
-    "startTime": "2026-10-14T19:00:00Z",
-    "endTime": "2026-10-14T20:30:00Z",
-    "startDate": "2026-10-14",
-    "endDate": "2026-10-14",
-    "infoUrl": "https://www.agcw.de/contest/sta/",
-    "mode": "CW",
     "bands": "80/40m"
   },
   {
@@ -7766,6 +7756,16 @@
     "startDate": "2026-10-20",
     "endDate": "2026-10-20",
     "infoUrl": "https://spcwc.pl/ttc/rules/en",
+    "mode": "CW",
+    "bands": "80/40m"
+  },
+  {
+    "name": "AGCW Bug",
+    "startTime": "2026-10-21T19:00:00Z",
+    "endTime": "2026-10-21T20:30:00Z",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "infoUrl": "https://www.agcw.de/contest/sta/",
     "mode": "CW",
     "bands": "80/40m"
   },
@@ -10212,10 +10212,10 @@
   {
     "name": "IKE Akti-Woche",
     "startTime": "2026-10-11T00:00:00Z",
-    "endTime": "2026-10-11T23:59:00Z",
+    "endTime": "2026-10-17T23:59:00Z",
     "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung-IKE-Aktivit%C3%A4tswoche_2025.pdf",
+    "endDate": "2026-10-17",
+    "infoUrl": "https://www.agcw.de/funkaktivitaeten/ike-aktivitaetswoche/",
     "mode": "CW",
     "bands": "alle, inkl. WARC"
   },
