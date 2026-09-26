@@ -7950,14 +7950,14 @@
     "bands": "160 - 10m"
   },
   {
-    "name": "OK/OM DX CW Contest",
-    "startTime": "2026-11-07T12:00:00Z",
-    "endTime": "2026-11-08T11:59:00Z",
+    "name": "IARU-R1 MM CW Contest",
+    "startTime": "2026-11-07T14:00:00Z",
+    "endTime": "2026-11-08T13:59:00Z",
     "startDate": "2026-11-07",
     "endDate": "2026-11-08",
-    "infoUrl": "http://okomdx.crk.cz/index.php?page=CW-rules-english",
-    "mode": "CW",
-    "bands": "160-10m"
+    "infoUrl": "https://www.darc.de/der-club/referate/conteste/ukw-conteste-start/tnukwcontest0/tnukwcontest006/",
+    "mode": "144",
+    "bands": "CW"
   },
   {
     "name": "RSGB Autumn",
@@ -7990,6 +7990,16 @@
     "bands": "160 - 10m"
   },
   {
+    "name": "FIRAC Contest",
+    "startTime": "2026-11-08T07:00:00Z",
+    "endTime": "2026-11-08T17:00:00Z",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "infoUrl": "http://www.firac.de/FIRAC_HF_CONTEST_D.pdf",
+    "mode": "SSB",
+    "bands": "80m - 10m"
+  },
+  {
     "name": "NRAU Activity",
     "startTime": "2026-11-03T18:00:00Z",
     "endTime": "2026-11-03T22:00:00Z",
@@ -8000,14 +8010,24 @@
     "bands": "144MHz"
   },
   {
-    "name": "IARU-R1 MM CW Contest",
-    "startTime": "2026-11-07T14:00:00Z",
-    "endTime": "2026-11-08T13:59:00Z",
+    "name": "IPA Radio Club Contest",
+    "startTime": "2026-11-07T06:00:00Z",
+    "endTime": "2026-11-07T18:00:00Z",
     "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf",
+    "mode": "CW",
+    "bands": "80 - 10m"
+  },
+  {
+    "name": "IPA Radio Club Contest",
+    "startTime": "2026-11-08T06:00:00Z",
+    "endTime": "2026-11-08T18:00:00Z",
+    "startDate": "2026-11-08",
     "endDate": "2026-11-08",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest006/tnukwcontest007007/",
-    "mode": "144",
-    "bands": "CW"
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf",
+    "mode": "SSB",
+    "bands": "80 - 10m"
   },
   {
     "name": "SP Activity",
@@ -8020,14 +8040,14 @@
     "bands": "144MHz"
   },
   {
-    "name": "Japan DX Contest",
-    "startTime": "2026-11-07T07:00:00Z",
-    "endTime": "2026-11-08T13:00:00Z",
-    "startDate": "2026-11-07",
+    "name": "Sunday Race",
+    "startTime": "2026-11-08T15:00:00Z",
+    "endTime": "2026-11-08T15:30:00Z",
+    "startDate": "2026-11-08",
     "endDate": "2026-11-08",
-    "infoUrl": "https://jidx.org/jidxrule-e.html",
-    "mode": "SSB",
-    "bands": "160 - 10m"
+    "infoUrl": "https://nedtest.cz/index_en.html",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "TTC-SPCWC",
@@ -8040,26 +8060,6 @@
     "bands": "80/40m"
   },
   {
-    "name": "Aktivitätswochenende Schleswig-Holstein",
-    "startTime": "2026-11-07T09:00:00Z",
-    "endTime": "2026-11-07T19:00:00Z",
-    "startDate": "2026-11-07",
-    "endDate": "2026-11-07",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/03_SH-Aktivitaet2025-Ausschreibung.pdf",
-    "mode": "CW. SSB",
-    "bands": "80/40/2m/70cm"
-  },
-  {
-    "name": "Aktivitätswochenende Schleswig-Holstein",
-    "startTime": "2026-11-08T07:00:00Z",
-    "endTime": "2026-11-08T18:00:00Z",
-    "startDate": "2026-11-08",
-    "endDate": "2026-11-08",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/03_SH-Aktivitaet2025-Ausschreibung.pdf",
-    "mode": "CW. SSB",
-    "bands": "80/40/2m/70cm"
-  },
-  {
     "name": "RSGB Activity",
     "startTime": "2026-11-03T20:00:00Z",
     "endTime": "2026-11-03T22:30:00Z",
@@ -8068,46 +8068,6 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=2mukac",
     "mode": "alle",
     "bands": "144MHz"
-  },
-  {
-    "name": "FIRAC Contest",
-    "startTime": "2026-11-08T07:00:00Z",
-    "endTime": "2026-11-08T17:00:00Z",
-    "startDate": "2026-11-08",
-    "endDate": "2026-11-08",
-    "infoUrl": "http://www.firac.de/FIRAC_HF_CONTEST_D.pdf",
-    "mode": "SSB",
-    "bands": "80m - 10m"
-  },
-  {
-    "name": "60. IPA Radio Club Contest",
-    "startTime": "2026-11-07T06:00:00Z",
-    "endTime": "2026-11-07T18:00:00Z",
-    "startDate": "2026-11-07",
-    "endDate": "2026-11-07",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf",
-    "mode": "CW",
-    "bands": "80 - 10m"
-  },
-  {
-    "name": "60. IPA Radio Club Contest",
-    "startTime": "2026-11-08T06:00:00Z",
-    "endTime": "2026-11-08T18:00:00Z",
-    "startDate": "2026-11-08",
-    "endDate": "2026-11-08",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf",
-    "mode": "SSB",
-    "bands": "80 - 10m"
-  },
-  {
-    "name": "Sunday Race",
-    "startTime": "2026-11-08T15:00:00Z",
-    "endTime": "2026-11-08T15:30:00Z",
-    "startDate": "2026-11-08",
-    "endDate": "2026-11-08",
-    "infoUrl": "https://nedtest.cz/index_en.html",
-    "mode": "CW",
-    "bands": "80m"
   },
   {
     "name": "OK1WC Memorial",
@@ -8190,24 +8150,14 @@
     "bands": "50MHz"
   },
   {
-    "name": "Köln-Aachen",
-    "startTime": "2026-11-14T15:30:00Z",
-    "endTime": "2026-11-14T20:30:00Z",
-    "startDate": "2026-11-14",
-    "endDate": "2026-11-14",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung-KA-Contest-2025_2.pdf",
-    "mode": "CW/SSB",
-    "bands": "2m/70cm"
-  },
-  {
-    "name": "OE Aktivitätstag",
-    "startTime": "2026-11-15T07:00:00Z",
+    "name": "Japan DX Contest",
+    "startTime": "2026-11-14T07:00:00Z",
     "endTime": "2026-11-15T13:00:00Z",
-    "startDate": "2026-11-15",
+    "startDate": "2026-11-14",
     "endDate": "2026-11-15",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf",
-    "mode": "alle",
-    "bands": "50Mhz and up"
+    "infoUrl": "https://jidx.org/jidxrule-e.html",
+    "mode": "SSB",
+    "bands": "160 - 10m"
   },
   {
     "name": "SP Activity",
@@ -8240,14 +8190,14 @@
     "bands": "50MHz"
   },
   {
-    "name": "9A Activity Contest",
-    "startTime": "2026-11-15T07:00:00Z",
-    "endTime": "2026-11-15T12:00:00Z",
-    "startDate": "2026-11-15",
+    "name": "OK/OM DX CW Contest",
+    "startTime": "2026-11-14T12:00:00Z",
+    "endTime": "2026-11-15T11:59:00Z",
+    "startDate": "2026-11-14",
     "endDate": "2026-11-15",
-    "infoUrl": "https://hrvhf.net/index.php/9a-activity-contest",
-    "mode": "alle",
-    "bands": "6m - Laser"
+    "infoUrl": "http://okomdx.crk.cz/index.php?page=CW-rules-english",
+    "mode": "CW",
+    "bands": "160-10m"
   },
   {
     "name": "DARC FT4 Contest",
@@ -8270,14 +8220,24 @@
     "bands": "50MHz"
   },
   {
-    "name": "S5 Activity",
+    "name": "Aktivitätswochenende Schleswig-Holstein",
+    "startTime": "2026-11-14T09:00:00Z",
+    "endTime": "2026-11-14T19:00:00Z",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/03_SH-Aktivitaet2025-Ausschreibung.pdf",
+    "mode": "CW. SSB",
+    "bands": "80/40/2m/70cm"
+  },
+  {
+    "name": "Aktivitätswochenende Schleswig-Holstein",
     "startTime": "2026-11-15T07:00:00Z",
-    "endTime": "2026-11-15T12:59:00Z",
+    "endTime": "2026-11-15T18:00:00Z",
     "startDate": "2026-11-15",
     "endDate": "2026-11-15",
-    "infoUrl": "http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf",
-    "mode": "CW/SSB",
-    "bands": "50MHz and up"
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/03_SH-Aktivitaet2025-Ausschreibung.pdf",
+    "mode": "CW. SSB",
+    "bands": "80/40/2m/70cm"
   },
   {
     "name": "TTC-SPCWC",
@@ -8290,14 +8250,24 @@
     "bands": "80/40m"
   },
   {
-    "name": "GMA Contest",
-    "startTime": "2026-11-15T08:00:00Z",
-    "endTime": "2026-11-15T12:00:00Z",
+    "name": "Köln-Aachen",
+    "startTime": "2026-11-14T15:30:00Z",
+    "endTime": "2026-11-14T20:30:00Z",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung-KA-Contest-2025_2.pdf",
+    "mode": "CW/SSB",
+    "bands": "2m/70cm"
+  },
+  {
+    "name": "OE Aktivitätstag",
+    "startTime": "2026-11-15T07:00:00Z",
+    "endTime": "2026-11-15T13:00:00Z",
     "startDate": "2026-11-15",
     "endDate": "2026-11-15",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/GMAC_Rules.pdf",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf",
     "mode": "alle",
-    "bands": "144MHz"
+    "bands": "50Mhz and up"
   },
   {
     "name": "RSGB Activity",
@@ -8308,6 +8278,36 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=70cmsukac",
     "mode": "alle",
     "bands": "432MHz"
+  },
+  {
+    "name": "9A Activity Contest",
+    "startTime": "2026-11-15T07:00:00Z",
+    "endTime": "2026-11-15T12:00:00Z",
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "infoUrl": "https://hrvhf.net/index.php/9a-activity-contest",
+    "mode": "alle",
+    "bands": "6m - Laser"
+  },
+  {
+    "name": "S5 Activity",
+    "startTime": "2026-11-15T07:00:00Z",
+    "endTime": "2026-11-15T12:59:00Z",
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "infoUrl": "http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf",
+    "mode": "CW/SSB",
+    "bands": "50MHz and up"
+  },
+  {
+    "name": "GMA Contest",
+    "startTime": "2026-11-15T08:00:00Z",
+    "endTime": "2026-11-15T12:00:00Z",
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/GMAC_Rules.pdf",
+    "mode": "alle",
+    "bands": "144MHz"
   },
   {
     "name": "OK Activity Contest",
@@ -8521,16 +8521,6 @@
   },
   {
     "name": "RSGB Activity",
-    "startTime": "2026-11-17T20:00:00Z",
-    "endTime": "2026-11-17T22:30:00Z",
-    "startDate": "2026-11-17",
-    "endDate": "2026-11-17",
-    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
-    "mode": "alle",
-    "bands": "1,3GHz"
-  },
-  {
-    "name": "RSGB Activity",
     "startTime": "2026-11-19T20:00:00Z",
     "endTime": "2026-11-19T22:30:00Z",
     "startDate": "2026-11-19",
@@ -8548,6 +8538,16 @@
     "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r160m.shtml",
     "mode": "CW",
     "bands": "160"
+  },
+  {
+    "name": "RSGB Activity",
+    "startTime": "2026-11-17T20:00:00Z",
+    "endTime": "2026-11-17T22:30:00Z",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-17",
+    "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
+    "mode": "alle",
+    "bands": "1,3GHz"
   },
   {
     "name": "OK1WC Memorial",

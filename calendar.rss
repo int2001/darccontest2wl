@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 25 Sep 2026 07:09:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 07:06:06 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -4778,10 +4778,10 @@
 <guid>darc-calendar://cwt-mini-contest-2026-11-05T07:00:00Z</guid>
 </item>
 <item>
-<title>OK/OM DX CW Contest</title>
-<link>http://okomdx.crk.cz/index.php?page=CW-rules-english</link>
-<description>1200Z, Nov 7 to 1159Z, Nov 8</description>
-<guid>darc-calendar://ok-om-dx-cw-contest-2026-11-07T12:00:00Z</guid>
+<title>IARU-R1 MM CW Contest</title>
+<link>https://www.darc.de/der-club/referate/conteste/ukw-conteste-start/tnukwcontest0/tnukwcontest006/</link>
+<description>1400Z, Nov 7 to 1359Z, Nov 8</description>
+<guid>darc-calendar://iaru-r1-mm-cw-contest-2026-11-07T14:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Autumn</title>
@@ -4802,16 +4802,28 @@
 <guid>darc-calendar://cwt-mini-contest-2026-11-04T19:00:00Z</guid>
 </item>
 <item>
+<title>FIRAC Contest</title>
+<link>http://www.firac.de/FIRAC_HF_CONTEST_D.pdf</link>
+<description>0700Z-1700Z, Nov 8</description>
+<guid>darc-calendar://firac-contest-2026-11-08T07:00:00Z</guid>
+</item>
+<item>
 <title>NRAU Activity</title>
 <link>https://vushf.dk/contest/rules/nac-open/</link>
 <description>1800Z-2200Z, Nov 3</description>
 <guid>darc-calendar://nrau-activity-2026-11-03T18:00:00Z</guid>
 </item>
 <item>
-<title>IARU-R1 MM CW Contest</title>
-<link>https://www.darc.de/der-club/referate/conteste/ukw/tnukwcontest006/tnukwcontest007007/</link>
-<description>1400Z, Nov 7 to 1359Z, Nov 8</description>
-<guid>darc-calendar://iaru-r1-mm-cw-contest-2026-11-07T14:00:00Z</guid>
+<title>IPA Radio Club Contest</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf</link>
+<description>0600Z-1800Z, Nov 7</description>
+<guid>darc-calendar://ipa-radio-club-contest-2026-11-07T06:00:00Z</guid>
+</item>
+<item>
+<title>IPA Radio Club Contest</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf</link>
+<description>0600Z-1800Z, Nov 8</description>
+<guid>darc-calendar://ipa-radio-club-contest-2026-11-08T06:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -4820,10 +4832,10 @@
 <guid>darc-calendar://sp-activity-2026-11-03T18:00:00Z</guid>
 </item>
 <item>
-<title>Japan DX Contest</title>
-<link>https://jidx.org/jidxrule-e.html</link>
-<description>0700Z, Nov 7 to 1300Z, Nov 8</description>
-<guid>darc-calendar://japan-dx-contest-2026-11-07T07:00:00Z</guid>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/index_en.html</link>
+<description>1500Z-1530Z, Nov 8</description>
+<guid>darc-calendar://sunday-race-2026-11-08T15:00:00Z</guid>
 </item>
 <item>
 <title>TTC-SPCWC</title>
@@ -4832,46 +4844,10 @@
 <guid>darc-calendar://ttc-spcwc-2026-11-03T19:30:00Z</guid>
 </item>
 <item>
-<title>Aktivitätswochenende Schleswig-Holstein</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/03_SH-Aktivitaet2025-Ausschreibung.pdf</link>
-<description>0900Z-1900Z, Nov 7</description>
-<guid>darc-calendar://aktivit-tswochenende-schleswig-holstein-2026-11-07T09:00:00Z</guid>
-</item>
-<item>
-<title>Aktivitätswochenende Schleswig-Holstein</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/03_SH-Aktivitaet2025-Ausschreibung.pdf</link>
-<description>0700Z-1800Z, Nov 8</description>
-<guid>darc-calendar://aktivit-tswochenende-schleswig-holstein-2026-11-08T07:00:00Z</guid>
-</item>
-<item>
 <title>RSGB Activity</title>
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=2mukac</link>
 <description>2000Z-2230Z, Nov 3</description>
 <guid>darc-calendar://rsgb-activity-2026-11-03T20:00:00Z</guid>
-</item>
-<item>
-<title>FIRAC Contest</title>
-<link>http://www.firac.de/FIRAC_HF_CONTEST_D.pdf</link>
-<description>0700Z-1700Z, Nov 8</description>
-<guid>darc-calendar://firac-contest-2026-11-08T07:00:00Z</guid>
-</item>
-<item>
-<title>60. IPA Radio Club Contest</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf</link>
-<description>0600Z-1800Z, Nov 7</description>
-<guid>darc-calendar://60-ipa-radio-club-contest-2026-11-07T06:00:00Z</guid>
-</item>
-<item>
-<title>60. IPA Radio Club Contest</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf</link>
-<description>0600Z-1800Z, Nov 8</description>
-<guid>darc-calendar://60-ipa-radio-club-contest-2026-11-08T06:00:00Z</guid>
-</item>
-<item>
-<title>Sunday Race</title>
-<link>https://nedtest.cz/index_en.html</link>
-<description>1500Z-1530Z, Nov 8</description>
-<guid>darc-calendar://sunday-race-2026-11-08T15:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
@@ -4922,16 +4898,10 @@
 <guid>darc-calendar://nrau-activity-2026-11-12T18:00:00Z</guid>
 </item>
 <item>
-<title>Köln-Aachen</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung-KA-Contest-2025_2.pdf</link>
-<description>1530Z-2030Z, Nov 14</description>
-<guid>darc-calendar://k-ln-aachen-2026-11-14T15:30:00Z</guid>
-</item>
-<item>
-<title>OE Aktivitätstag</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf</link>
-<description>0700Z-1300Z, Nov 15</description>
-<guid>darc-calendar://oe-aktivit-tstag-2026-11-15T07:00:00Z</guid>
+<title>Japan DX Contest</title>
+<link>https://jidx.org/jidxrule-e.html</link>
+<description>0700Z, Nov 14 to 1300Z, Nov 15</description>
+<guid>darc-calendar://japan-dx-contest-2026-11-14T07:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -4952,10 +4922,10 @@
 <guid>darc-calendar://sp-activity-2026-11-12T18:00:00Z</guid>
 </item>
 <item>
-<title>9A Activity Contest</title>
-<link>https://hrvhf.net/index.php/9a-activity-contest</link>
-<description>0700Z-1200Z, Nov 15</description>
-<guid>darc-calendar://9a-activity-contest-2026-11-15T07:00:00Z</guid>
+<title>OK/OM DX CW Contest</title>
+<link>http://okomdx.crk.cz/index.php?page=CW-rules-english</link>
+<description>1200Z, Nov 14 to 1159Z, Nov 15</description>
+<guid>darc-calendar://ok-om-dx-cw-contest-2026-11-14T12:00:00Z</guid>
 </item>
 <item>
 <title>DARC FT4 Contest</title>
@@ -4970,10 +4940,16 @@
 <guid>darc-calendar://rsgb-activity-2026-11-12T20:00:00Z</guid>
 </item>
 <item>
-<title>S5 Activity</title>
-<link>http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf</link>
-<description>0700Z-1259Z, Nov 15</description>
-<guid>darc-calendar://s5-activity-2026-11-15T07:00:00Z</guid>
+<title>Aktivitätswochenende Schleswig-Holstein</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/03_SH-Aktivitaet2025-Ausschreibung.pdf</link>
+<description>0900Z-1900Z, Nov 14</description>
+<guid>darc-calendar://aktivit-tswochenende-schleswig-holstein-2026-11-14T09:00:00Z</guid>
+</item>
+<item>
+<title>Aktivitätswochenende Schleswig-Holstein</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/03_SH-Aktivitaet2025-Ausschreibung.pdf</link>
+<description>0700Z-1800Z, Nov 15</description>
+<guid>darc-calendar://aktivit-tswochenende-schleswig-holstein-2026-11-15T07:00:00Z</guid>
 </item>
 <item>
 <title>TTC-SPCWC</title>
@@ -4982,16 +4958,40 @@
 <guid>darc-calendar://ttc-spcwc-2026-11-10T19:30:00Z</guid>
 </item>
 <item>
-<title>GMA Contest</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/GMAC_Rules.pdf</link>
-<description>0800Z-1200Z, Nov 15</description>
-<guid>darc-calendar://gma-contest-2026-11-15T08:00:00Z</guid>
+<title>Köln-Aachen</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung-KA-Contest-2025_2.pdf</link>
+<description>1530Z-2030Z, Nov 14</description>
+<guid>darc-calendar://k-ln-aachen-2026-11-14T15:30:00Z</guid>
+</item>
+<item>
+<title>OE Aktivitätstag</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf</link>
+<description>0700Z-1300Z, Nov 15</description>
+<guid>darc-calendar://oe-aktivit-tstag-2026-11-15T07:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=70cmsukac</link>
 <description>2000Z-2230Z, Nov 10</description>
 <guid>darc-calendar://rsgb-activity-2026-11-10T20:00:00Z</guid>
+</item>
+<item>
+<title>9A Activity Contest</title>
+<link>https://hrvhf.net/index.php/9a-activity-contest</link>
+<description>0700Z-1200Z, Nov 15</description>
+<guid>darc-calendar://9a-activity-contest-2026-11-15T07:00:00Z</guid>
+</item>
+<item>
+<title>S5 Activity</title>
+<link>http://zrsmaraton.hamradio.si/ZRS-maraton-2021.pdf</link>
+<description>0700Z-1259Z, Nov 15</description>
+<guid>darc-calendar://s5-activity-2026-11-15T07:00:00Z</guid>
+</item>
+<item>
+<title>GMA Contest</title>
+<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/GMAC_Rules.pdf</link>
+<description>0800Z-1200Z, Nov 15</description>
+<guid>darc-calendar://gma-contest-2026-11-15T08:00:00Z</guid>
 </item>
 <item>
 <title>OK Activity Contest</title>
@@ -5121,12 +5121,6 @@
 </item>
 <item>
 <title>RSGB Activity</title>
-<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
-<description>2000Z-2230Z, Nov 17</description>
-<guid>darc-calendar://rsgb-activity-2026-11-17T20:00:00Z</guid>
-</item>
-<item>
-<title>RSGB Activity</title>
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=4mukac</link>
 <description>2000Z-2230Z, Nov 19</description>
 <guid>darc-calendar://rsgb-activity-2026-11-19T20:00:00Z</guid>
@@ -5136,6 +5130,12 @@
 <link>https://www.rsgbcc.org/hf/rules/2026/r160m.shtml</link>
 <description>1900Z-2300Z, Nov 21</description>
 <guid>darc-calendar://rsgb-160m-2026-11-21T19:00:00Z</guid>
+</item>
+<item>
+<title>RSGB Activity</title>
+<link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
+<description>2000Z-2230Z, Nov 17</description>
+<guid>darc-calendar://rsgb-activity-2026-11-17T20:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>
