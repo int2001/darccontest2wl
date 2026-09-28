@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 27 Sep 2026 07:38:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 08:16:10 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -4958,12 +4958,6 @@
 <guid>darc-calendar://ttc-spcwc-2026-11-10T19:30:00Z</guid>
 </item>
 <item>
-<title>Köln-Aachen</title>
-<link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung-KA-Contest-2025_2.pdf</link>
-<description>1530Z-2030Z, Nov 14</description>
-<guid>darc-calendar://k-ln-aachen-2026-11-14T15:30:00Z</guid>
-</item>
-<item>
 <title>OE Aktivitätstag</title>
 <link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Aktivitaetskontest-Adaption-der-Kontestregeln-ab-2022.pdf</link>
 <description>0700Z-1300Z, Nov 15</description>
@@ -5004,12 +4998,6 @@
 <link>https://dl0tud.tu-dresden.de/wordpress/index.php/dur/</link>
 <description>0800Z-1200Z, Nov 15</description>
 <guid>darc-calendar://dur-ghz-aktivit-t-2026-11-15T08:00:00Z</guid>
-</item>
-<item>
-<title>Köln-Aachen</title>
-<link>https://www.darc.de/fileadmin/filemounts/distrikte/g/2024/KA-Contest/Ausschreibung-KA-Contest-2024.pdf</link>
-<description>0830Z-1630Z, Nov 15</description>
-<guid>darc-calendar://k-ln-aachen-2026-11-15T08:30:00Z</guid>
 </item>
 <item>
 <title>HOT-Party</title>
@@ -5078,16 +5066,16 @@
 <guid>darc-calendar://nrau-activity-2026-11-19T18:00:00Z</guid>
 </item>
 <item>
-<title>OE 160M Contest</title>
-<link>https://www.oevsv.at/export/shared/.content/.galleries/Downloads_Referate/HF-Referat-Downloads/Regeln_Aoec_160m_2020.pdf</link>
-<description>1600Z-2359Z, Nov 21</description>
-<guid>darc-calendar://oe-160m-contest-2026-11-21T16:00:00Z</guid>
+<title>Köln-Aachen</title>
+<link>https://www.darc.de/der-club/distrikte/g/koeln-aachen-contest/?utm_source=chatgpt.com</link>
+<description>1530Z-2030Z, Nov 21</description>
+<guid>darc-calendar://k-ln-aachen-2026-11-21T15:30:00Z</guid>
 </item>
 <item>
-<title>Sunday Race</title>
-<link>https://nedtest.cz/index_en.html</link>
-<description>1500Z-1530Z, Nov 22</description>
-<guid>darc-calendar://sunday-race-2026-11-22T15:00:00Z</guid>
+<title>Köln-Aachen</title>
+<link>https://www.darc.de/der-club/distrikte/g/koeln-aachen-contest/?utm_source=chatgpt.com</link>
+<description>0830Z-1630Z, Nov 22</description>
+<guid>darc-calendar://k-ln-aachen-2026-11-22T08:30:00Z</guid>
 </item>
 <item>
 <title>DARC HELL-Kurzcontest</title>
@@ -5108,10 +5096,16 @@
 <guid>darc-calendar://sp-activity-2026-11-19T18:00:00Z</guid>
 </item>
 <item>
-<title>REF 160m</title>
-<link>https://concours.r-e-f.org/contest/a-propos/ref-160m-contest/</link>
-<description>1700Z, Nov 21 to 0100Z, Nov 22</description>
-<guid>darc-calendar://ref-160m-2026-11-21T17:00:00Z</guid>
+<title>OE 160M Contest</title>
+<link>https://www.oevsv.at/export/shared/.content/.galleries/Downloads_Referate/HF-Referat-Downloads/Regeln_Aoec_160m_2025.pdf</link>
+<description>1600Z-2359Z, Nov 21</description>
+<guid>darc-calendar://oe-160m-contest-2026-11-21T16:00:00Z</guid>
+</item>
+<item>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/index_en.html</link>
+<description>1500Z-1530Z, Nov 22</description>
+<guid>darc-calendar://sunday-race-2026-11-22T15:00:00Z</guid>
 </item>
 <item>
 <title>TTC-SPCWC</title>
@@ -5126,16 +5120,22 @@
 <guid>darc-calendar://rsgb-activity-2026-11-19T20:00:00Z</guid>
 </item>
 <item>
-<title>RSGB 160m</title>
-<link>https://www.rsgbcc.org/hf/rules/2026/r160m.shtml</link>
-<description>1900Z-2300Z, Nov 21</description>
-<guid>darc-calendar://rsgb-160m-2026-11-21T19:00:00Z</guid>
+<title>REF 160m</title>
+<link>https://concours.r-e-f.org/contest/a-propos/ref-160m-contest/</link>
+<description>1700Z-0100Z, Nov 21</description>
+<guid>darc-calendar://ref-160m-2026-11-21T17:00:00Z</guid>
 </item>
 <item>
 <title>RSGB Activity</title>
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=uhfukac</link>
 <description>2000Z-2230Z, Nov 17</description>
 <guid>darc-calendar://rsgb-activity-2026-11-17T20:00:00Z</guid>
+</item>
+<item>
+<title>RSGB 160m</title>
+<link>https://www.rsgbcc.org/hf/rules/2026/r160m.shtml</link>
+<description>1900Z-2300Z, Nov 21</description>
+<guid>darc-calendar://rsgb-160m-2026-11-21T19:00:00Z</guid>
 </item>
 <item>
 <title>OK1WC Memorial</title>

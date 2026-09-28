@@ -8250,16 +8250,6 @@
     "bands": "80/40m"
   },
   {
-    "name": "Köln-Aachen",
-    "startTime": "2026-11-14T15:30:00Z",
-    "endTime": "2026-11-14T20:30:00Z",
-    "startDate": "2026-11-14",
-    "endDate": "2026-11-14",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/Ausschreibung-KA-Contest-2025_2.pdf",
-    "mode": "CW/SSB",
-    "bands": "2m/70cm"
-  },
-  {
     "name": "OE Aktivitätstag",
     "startTime": "2026-11-15T07:00:00Z",
     "endTime": "2026-11-15T13:00:00Z",
@@ -8328,16 +8318,6 @@
     "infoUrl": "https://dl0tud.tu-dresden.de/wordpress/index.php/dur/",
     "mode": "CW/SSB/FM",
     "bands": ">1GHz"
-  },
-  {
-    "name": "Köln-Aachen",
-    "startTime": "2026-11-15T08:30:00Z",
-    "endTime": "2026-11-15T16:30:00Z",
-    "startDate": "2026-11-15",
-    "endDate": "2026-11-15",
-    "infoUrl": "https://www.darc.de/fileadmin/filemounts/distrikte/g/2024/KA-Contest/Ausschreibung-KA-Contest-2024.pdf",
-    "mode": "CW/SSB",
-    "bands": "10/80m"
   },
   {
     "name": "HOT-Party",
@@ -8450,24 +8430,24 @@
     "bands": "70MHz"
   },
   {
-    "name": "OE 160M Contest",
-    "startTime": "2026-11-21T16:00:00Z",
-    "endTime": "2026-11-21T23:59:00Z",
+    "name": "Köln-Aachen",
+    "startTime": "2026-11-21T15:30:00Z",
+    "endTime": "2026-11-21T20:30:00Z",
     "startDate": "2026-11-21",
     "endDate": "2026-11-21",
-    "infoUrl": "https://www.oevsv.at/export/shared/.content/.galleries/Downloads_Referate/HF-Referat-Downloads/Regeln_Aoec_160m_2020.pdf",
-    "mode": "CW",
-    "bands": "160m"
+    "infoUrl": "https://www.darc.de/der-club/distrikte/g/koeln-aachen-contest/?utm_source=chatgpt.com",
+    "mode": "CW/SSB",
+    "bands": "2m/70cm"
   },
   {
-    "name": "Sunday Race",
-    "startTime": "2026-11-22T15:00:00Z",
-    "endTime": "2026-11-22T15:30:00Z",
+    "name": "Köln-Aachen",
+    "startTime": "2026-11-22T08:30:00Z",
+    "endTime": "2026-11-22T16:30:00Z",
     "startDate": "2026-11-22",
     "endDate": "2026-11-22",
-    "infoUrl": "https://nedtest.cz/index_en.html",
-    "mode": "CW",
-    "bands": "80m"
+    "infoUrl": "https://www.darc.de/der-club/distrikte/g/koeln-aachen-contest/?utm_source=chatgpt.com",
+    "mode": "CW/SSB",
+    "bands": "10/80m"
   },
   {
     "name": "DARC HELL-Kurzcontest",
@@ -8500,14 +8480,24 @@
     "bands": "70MHz"
   },
   {
-    "name": "REF 160m",
-    "startTime": "2026-11-21T17:00:00Z",
-    "endTime": "2026-11-22T01:00:00Z",
+    "name": "OE 160M Contest",
+    "startTime": "2026-11-21T16:00:00Z",
+    "endTime": "2026-11-21T23:59:00Z",
     "startDate": "2026-11-21",
-    "endDate": "2026-11-22",
-    "infoUrl": "https://concours.r-e-f.org/contest/a-propos/ref-160m-contest/",
+    "endDate": "2026-11-21",
+    "infoUrl": "https://www.oevsv.at/export/shared/.content/.galleries/Downloads_Referate/HF-Referat-Downloads/Regeln_Aoec_160m_2025.pdf",
     "mode": "CW",
     "bands": "160m"
+  },
+  {
+    "name": "Sunday Race",
+    "startTime": "2026-11-22T15:00:00Z",
+    "endTime": "2026-11-22T15:30:00Z",
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "infoUrl": "https://nedtest.cz/index_en.html",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "TTC-SPCWC",
@@ -8530,14 +8520,14 @@
     "bands": "70MHz"
   },
   {
-    "name": "RSGB 160m",
-    "startTime": "2026-11-21T19:00:00Z",
-    "endTime": "2026-11-21T23:00:00Z",
+    "name": "REF 160m",
+    "startTime": "2026-11-21T17:00:00Z",
+    "endTime": "2026-11-21T01:00:00Z",
     "startDate": "2026-11-21",
     "endDate": "2026-11-21",
-    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r160m.shtml",
+    "infoUrl": "https://concours.r-e-f.org/contest/a-propos/ref-160m-contest/",
     "mode": "CW",
-    "bands": "160"
+    "bands": "160m"
   },
   {
     "name": "RSGB Activity",
@@ -8548,6 +8538,16 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=uhfukac",
     "mode": "alle",
     "bands": "1,3GHz"
+  },
+  {
+    "name": "RSGB 160m",
+    "startTime": "2026-11-21T19:00:00Z",
+    "endTime": "2026-11-21T23:00:00Z",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "infoUrl": "https://www.rsgbcc.org/hf/rules/2026/r160m.shtml",
+    "mode": "CW",
+    "bands": "160"
   },
   {
     "name": "OK1WC Memorial",
