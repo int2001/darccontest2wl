@@ -7030,6 +7030,16 @@
     "bands": "160-10m"
   },
   {
+    "name": "Nordsee-Aktivitätstag",
+    "startTime": "2026-10-03T08:00:00Z",
+    "endTime": "2026-10-03T14:00:00Z",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-03",
+    "infoUrl": "https://www.darc.de/der-club/distrikte/i/conteste/#c9384",
+    "mode": "CW/SSB",
+    "bands": "80/10/2/70"
+  },
+  {
     "name": "IARU-R1 UHF/µW Contest",
     "startTime": "2026-10-03T14:00:00Z",
     "endTime": "2026-10-04T13:59:00Z",
@@ -7248,16 +7258,6 @@
     "infoUrl": "https://diplom-interessen-gruppe.info/downloads/kurzconteste-3/",
     "mode": "SSB",
     "bands": "80m"
-  },
-  {
-    "name": "Nordsee-Aktivitätstag",
-    "startTime": "2026-10-10T08:00:00Z",
-    "endTime": "2026-10-10T14:00:00Z",
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "infoUrl": "https://www.darc.de/der-club/distrikte/i/conteste/#c9384",
-    "mode": "CW/SSB",
-    "bands": "80/10/2/70"
   },
   {
     "name": "ON Contest",
