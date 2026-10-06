@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 05 Oct 2026 08:25:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 08:36:08 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -4814,16 +4814,16 @@
 <guid>darc-calendar://nrau-activity-2026-11-03T18:00:00Z</guid>
 </item>
 <item>
-<title>IPA Radio Club Contest</title>
+<title>50. IPA Radio Club Contest</title>
 <link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf</link>
 <description>0600Z-1800Z, Nov 7</description>
-<guid>darc-calendar://ipa-radio-club-contest-2026-11-07T06:00:00Z</guid>
+<guid>darc-calendar://50-ipa-radio-club-contest-2026-11-07T06:00:00Z</guid>
 </item>
 <item>
-<title>IPA Radio Club Contest</title>
+<title>50. IPA Radio Club Contest</title>
 <link>https://www.darc.de/fileadmin/filemounts/referate/conteste/contest/Contestrules/IPARC_23.pdf</link>
 <description>0600Z-1800Z, Nov 8</description>
-<guid>darc-calendar://ipa-radio-club-contest-2026-11-08T06:00:00Z</guid>
+<guid>darc-calendar://50-ipa-radio-club-contest-2026-11-08T06:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -5247,7 +5247,7 @@
 </item>
 <item>
 <title>PRO CW Contest</title>
-<link>https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/tops/</link>
+<link>https://proradiocontestclub.com/PCC%20Rules.html</link>
 <description>1200Z, Dec 5 to 1159Z, Dec 6</description>
 <guid>darc-calendar://pro-cw-contest-2026-12-05T12:00:00Z</guid>
 </item>
@@ -5259,7 +5259,7 @@
 </item>
 <item>
 <title>FT Challenge</title>
-<link>https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/10mrttycontest/</link>
+<link>https://proradiocontestclub.com/PCC%20Rules.html</link>
 <description>1800Z, Dec 5 to 2359Z, Dec 6</description>
 <guid>darc-calendar://ft-challenge-2026-12-05T18:00:00Z</guid>
 </item>
@@ -5342,10 +5342,10 @@
 <guid>darc-calendar://nrau-activity-2026-12-10T18:00:00Z</guid>
 </item>
 <item>
-<title>TRC DIGI Contest</title>
-<link>https://www.darc.de/index.php?id=56690</link>
-<description>0600Z, Dec 12 to 1800Z, Dec 13</description>
-<guid>darc-calendar://trc-digi-contest-2026-12-12T06:00:00Z</guid>
+<title>Naval Contest</title>
+<link>https://www.marinefreunde.com/deu/inc.html</link>
+<description>1600Z, Dec 12 to 1559Z, Dec 13</description>
+<guid>darc-calendar://naval-contest-2026-12-12T16:00:00Z</guid>
 </item>
 <item>
 <title>SP Activity</title>
@@ -5360,10 +5360,10 @@
 <guid>darc-calendar://sp-activity-2026-12-10T18:00:00Z</guid>
 </item>
 <item>
-<title>Naval Contest</title>
-<link>https://www.darc.de/index.php?id=748</link>
-<description>1600Z, Dec 12 to 1559Z, Dec 13</description>
-<guid>darc-calendar://naval-contest-2026-12-12T16:00:00Z</guid>
+<title>Sunday Race</title>
+<link>https://nedtest.cz/index_en.html</link>
+<description>1500Z-1530Z, Dec 13</description>
+<guid>darc-calendar://sunday-race-2026-12-13T15:00:00Z</guid>
 </item>
 <item>
 <title>CW-Ausbildung</title>
@@ -5376,12 +5376,6 @@
 <link>https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&amp;contest=6mukac</link>
 <description>2000Z-2230Z, Dec 10</description>
 <guid>darc-calendar://rsgb-activity-2026-12-10T20:00:00Z</guid>
-</item>
-<item>
-<title>Sunday Race</title>
-<link>https://nedtest.cz/index_en.html</link>
-<description>1500Z-1530Z, Dec 13</description>
-<guid>darc-calendar://sunday-race-2026-12-13T15:00:00Z</guid>
 </item>
 <item>
 <title>TTC-SPCWC</title>

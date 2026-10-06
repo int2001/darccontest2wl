@@ -8010,7 +8010,7 @@
     "bands": "144MHz"
   },
   {
-    "name": "IPA Radio Club Contest",
+    "name": "50. IPA Radio Club Contest",
     "startTime": "2026-11-07T06:00:00Z",
     "endTime": "2026-11-07T18:00:00Z",
     "startDate": "2026-11-07",
@@ -8020,7 +8020,7 @@
     "bands": "80 - 10m"
   },
   {
-    "name": "IPA Radio Club Contest",
+    "name": "50. IPA Radio Club Contest",
     "startTime": "2026-11-08T06:00:00Z",
     "endTime": "2026-11-08T18:00:00Z",
     "startDate": "2026-11-08",
@@ -8735,7 +8735,7 @@
     "endTime": "2026-12-06T11:59:00Z",
     "startDate": "2026-12-05",
     "endDate": "2026-12-06",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/tops/",
+    "infoUrl": "https://proradiocontestclub.com/PCC%20Rules.html",
     "mode": "CW",
     "bands": "80 - 10m"
   },
@@ -8755,7 +8755,7 @@
     "endTime": "2026-12-06T23:59:00Z",
     "startDate": "2026-12-05",
     "endDate": "2026-12-06",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/10mrttycontest/",
+    "infoUrl": "https://proradiocontestclub.com/PCC%20Rules.html",
     "mode": "FT4/FT8",
     "bands": "80 - 10m"
   },
@@ -8890,13 +8890,13 @@
     "bands": "50MHz"
   },
   {
-    "name": "TRC DIGI Contest",
-    "startTime": "2026-12-12T06:00:00Z",
-    "endTime": "2026-12-13T18:00:00Z",
+    "name": "Naval Contest",
+    "startTime": "2026-12-12T16:00:00Z",
+    "endTime": "2026-12-13T15:59:00Z",
     "startDate": "2026-12-12",
     "endDate": "2026-12-13",
-    "infoUrl": "https://www.darc.de/index.php?id=56690",
-    "mode": "RTTY",
+    "infoUrl": "https://www.marinefreunde.com/deu/inc.html",
+    "mode": "CW/SSB",
     "bands": "80 - 10m"
   },
   {
@@ -8920,14 +8920,14 @@
     "bands": "50MHz"
   },
   {
-    "name": "Naval Contest",
-    "startTime": "2026-12-12T16:00:00Z",
-    "endTime": "2026-12-13T15:59:00Z",
-    "startDate": "2026-12-12",
+    "name": "Sunday Race",
+    "startTime": "2026-12-13T15:00:00Z",
+    "endTime": "2026-12-13T15:30:00Z",
+    "startDate": "2026-12-13",
     "endDate": "2026-12-13",
-    "infoUrl": "https://www.darc.de/index.php?id=748",
-    "mode": "CW/SSB",
-    "bands": "80 - 10m"
+    "infoUrl": "https://nedtest.cz/index_en.html",
+    "mode": "CW",
+    "bands": "80m"
   },
   {
     "name": "CW-Ausbildung",
@@ -8948,16 +8948,6 @@
     "infoUrl": "https://www.rsgbcc.org/cgi-bin/contest_rules.pl?year=2026&contest=6mukac",
     "mode": "alle",
     "bands": "50MHz"
-  },
-  {
-    "name": "Sunday Race",
-    "startTime": "2026-12-13T15:00:00Z",
-    "endTime": "2026-12-13T15:30:00Z",
-    "startDate": "2026-12-13",
-    "endDate": "2026-12-13",
-    "infoUrl": "https://nedtest.cz/index_en.html",
-    "mode": "CW",
-    "bands": "80m"
   },
   {
     "name": "TTC-SPCWC",
