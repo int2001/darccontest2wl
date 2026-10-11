@@ -5,7 +5,7 @@
 <link>https://www.darc.de</link>
 <description>Calendar of ham radio contests from DARC</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 10 Oct 2026 08:08:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 08:19:51 +0000</lastBuildDate>
 <atom:link href="https://www.darc.de/der-club/referate/conteste/ct-kalender/darc-contestkalender/" rel="self" type="application/rss+xml" />
 <item>
 <title>CWT Mini Contest</title>
@@ -4197,7 +4197,7 @@
 </item>
 <item>
 <title>CWT Mini Contest</title>
-<link>https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/cwt/#c273887</link>
+<link>https://cwops.org/cwops-tests/</link>
 <description>0700Z-0800Z, Oct 1</description>
 <guid>darc-calendar://cwt-mini-contest-2026-10-01T07:00:00Z</guid>
 </item>
@@ -4383,7 +4383,7 @@
 </item>
 <item>
 <title>Scandinavian Activity</title>
-<link>https://www.sactest.net/blog/scandinavian-activity-contest-2025-rules/</link>
+<link>https://www.sactest.net/blog/scandinavian-activity-contest-2026-rules/</link>
 <description>1200Z, Oct 10 to 1159Z, Oct 11</description>
 <guid>darc-calendar://scandinavian-activity-2026-10-10T12:00:00Z</guid>
 </item>
@@ -5223,7 +5223,7 @@
 </item>
 <item>
 <title>ARRL 160m Contest</title>
-<link>https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/arrl160m/</link>
+<link>https://contests.arrl.org/ContestRules/160M-Rules.pdf</link>
 <description>2200Z, Dec 4 to 1600Z, Dec 6</description>
 <guid>darc-calendar://arrl-160m-contest-2026-12-04T22:00:00Z</guid>
 </item>
@@ -5259,7 +5259,7 @@
 </item>
 <item>
 <title>FT Challenge</title>
-<link>https://proradiocontestclub.com/PCC%20Rules.html</link>
+<link>https://www.rttycontesting.com/ft-challenge/rules/</link>
 <description>1800Z, Dec 5 to 2359Z, Dec 6</description>
 <guid>darc-calendar://ft-challenge-2026-12-05T18:00:00Z</guid>
 </item>
@@ -5319,7 +5319,7 @@
 </item>
 <item>
 <title>ARRL 10m Contest</title>
-<link>https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/arrl10m/</link>
+<link>https://www.arrl.org/files/file/Contest%20Rules%20PDFs/2026/10%20Meter%20Rules%20v%202_0%20-%202026.pdf</link>
 <description>0000Z, Dec 12 to 2359Z, Dec 13</description>
 <guid>darc-calendar://arrl-10m-contest-2026-12-12T00:00:00Z</guid>
 </item>
@@ -5451,7 +5451,7 @@
 </item>
 <item>
 <title>9A DX Contest</title>
-<link>https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/croatiacw/</link>
+<link>https://www.hamradio.hr/9a-dx-contest/</link>
 <description>1400Z, Dec 19 to 1359Z, Dec 20</description>
 <guid>darc-calendar://9a-dx-contest-2026-12-19T14:00:00Z</guid>
 </item>

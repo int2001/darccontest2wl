@@ -6985,7 +6985,7 @@
     "endTime": "2026-10-01T08:00:00Z",
     "startDate": "2026-10-01",
     "endDate": "2026-10-01",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/cwt/#c273887",
+    "infoUrl": "https://cwops.org/cwops-tests/",
     "mode": "CW",
     "bands": "160 - 10m"
   },
@@ -7295,7 +7295,7 @@
     "endTime": "2026-10-11T11:59:00Z",
     "startDate": "2026-10-10",
     "endDate": "2026-10-11",
-    "infoUrl": "https://www.sactest.net/blog/scandinavian-activity-contest-2025-rules/",
+    "infoUrl": "https://www.sactest.net/blog/scandinavian-activity-contest-2026-rules/",
     "mode": "SSB",
     "bands": "80 - 10m"
   },
@@ -8695,7 +8695,7 @@
     "endTime": "2026-12-06T16:00:00Z",
     "startDate": "2026-12-04",
     "endDate": "2026-12-06",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/arrl160m/",
+    "infoUrl": "https://contests.arrl.org/ContestRules/160M-Rules.pdf",
     "mode": "CW",
     "bands": null
   },
@@ -8755,7 +8755,7 @@
     "endTime": "2026-12-06T23:59:00Z",
     "startDate": "2026-12-05",
     "endDate": "2026-12-06",
-    "infoUrl": "https://proradiocontestclub.com/PCC%20Rules.html",
+    "infoUrl": "https://www.rttycontesting.com/ft-challenge/rules/",
     "mode": "FT4/FT8",
     "bands": "80 - 10m"
   },
@@ -8855,7 +8855,7 @@
     "endTime": "2026-12-13T23:59:00Z",
     "startDate": "2026-12-12",
     "endDate": "2026-12-13",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/arrl10m/",
+    "infoUrl": "https://www.arrl.org/files/file/Contest%20Rules%20PDFs/2026/10%20Meter%20Rules%20v%202_0%20-%202026.pdf",
     "mode": "CW/SSB",
     "bands": "10m"
   },
@@ -9075,7 +9075,7 @@
     "endTime": "2026-12-20T13:59:00Z",
     "startDate": "2026-12-19",
     "endDate": "2026-12-20",
-    "infoUrl": "https://www.darc.de/der-club/referate/conteste/darc-contestkalender/regeln/croatiacw/",
+    "infoUrl": "https://www.hamradio.hr/9a-dx-contest/",
     "mode": "CW/SSB",
     "bands": "160-10m"
   },
